@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="909"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="358" y="41" type="line"/>
+      <point x="301" y="-133" type="line" smooth="yes"/>
+      <point x="281" y="-195"/>
+      <point x="229" y="-223"/>
+      <point x="176" y="-223" type="curve" smooth="yes"/>
+      <point x="115" y="-223" type="line"/>
+      <point x="115" y="-420" type="line"/>
+      <point x="184" y="-420" type="line" smooth="yes"/>
+      <point x="311" y="-420"/>
+      <point x="420" y="-375"/>
+      <point x="477" y="-215" type="curve" smooth="yes"/>
+      <point x="924" y="1038" type="line"/>
+      <point x="702" y="1038" type="line"/>
+      <point x="457" y="311" type="line"/>
+      <point x="453" y="311" type="line"/>
+      <point x="207" y="1038" type="line"/>
+      <point x="-14" y="1038" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="1171" type="line"/>
+      <point x="469" y="1171" type="line"/>
+      <point x="760" y="1470" type="line"/>
+      <point x="485" y="1470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-420</integer>
+	    <key>width</key>	    <integer>197</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

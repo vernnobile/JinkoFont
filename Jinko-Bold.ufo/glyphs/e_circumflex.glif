@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex" format="1">
+  <advance width="1263"/>
+  <unicode hex="00ca"/>
+  <outline>
+    <component base="circumflex" xOffset="217" yOffset="364"/>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>286</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>635</integer>
+	    <key>width</key>	    <integer>282</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1193</integer>
+	    <key>width</key>	    <integer>286</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1794</integer>
+	    <key>width</key>	    <integer>175</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>147</integer>
+	    <key>width</key>
+	    <integer>383</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

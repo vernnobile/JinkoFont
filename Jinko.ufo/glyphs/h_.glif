@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1550"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="1408" y="0" type="line"/>
+      <point x="1152" y="0" type="line"/>
+      <point x="1152" y="715" type="line"/>
+      <point x="473" y="715" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="1575" type="line"/>
+      <point x="473" y="1575" type="line"/>
+      <point x="473" y="924" type="line"/>
+      <point x="1152" y="924" type="line"/>
+      <point x="1152" y="1575" type="line"/>
+      <point x="1408" y="1575" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>685</integer>
+            <key>width</key>
+            <integer>231</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>158</integer>
+            <key>width</key>
+            <integer>315</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1103</integer>
+            <key>width</key>
+            <integer>315</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

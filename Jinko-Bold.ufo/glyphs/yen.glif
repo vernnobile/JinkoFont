@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1245"/>
+  <unicode hex="00a5"/>
+  <outline>
+    <component base="Y"/>
+    <contour>
+      <point x="112" y="930" type="line" smooth="no"/>
+      <point x="1231" y="930" type="line" smooth="no"/>
+      <point x="1231" y="725" type="line" smooth="no"/>
+      <point x="112" y="725" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="112" y="600" type="line" smooth="no"/>
+      <point x="1231" y="600" type="line" smooth="no"/>
+      <point x="1231" y="395" type="line" smooth="no"/>
+      <point x="112" y="395" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>445</integer>
+	    <key>width</key>	    <integer>205</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1459</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>441</integer>
+	    <key>width</key>
+	    <integer>362</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

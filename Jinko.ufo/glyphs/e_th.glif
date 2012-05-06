@@ -1,50 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
   <advance width="1291"/>
-  <unicode hex="00d0"/>
+  <unicode hex="00D0"/>
   <outline>
-    <component base="D"/>
     <contour>
-      <point x="704" y="637" type="line" smooth="no"/>
-      <point x="0" y="637" type="line" smooth="no"/>
-      <point x="0" y="834" type="line" smooth="no"/>
-      <point x="704" y="834" type="line" smooth="no"/>
+      <point x="704" y="637" type="line"/>
+      <point x="0" y="637" type="line"/>
+      <point x="0" y="834" type="line"/>
+      <point x="704" y="834" type="line"/>
     </contour>
+    <component base="D"/>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>283</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>637</integer>
-	    <key>width</key>	    <integer>197</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1198</integer>
-	    <key>width</key>	    <integer>282</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>147</integer>
-	    <key>width</key>
-	    <integer>385</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1054</integer>
-	    <key>width</key>
-	    <integer>392</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>283</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>637</integer>
+            <key>width</key>
+            <integer>197</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1198</integer>
+            <key>width</key>
+            <integer>282</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>147</integer>
+            <key>width</key>
+            <integer>385</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1054</integer>
+            <key>width</key>
+            <integer>392</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eth</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1291</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

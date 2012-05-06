@@ -1,35 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
   <advance width="897"/>
-  <unicode hex="00b4"/>
+  <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="779" y="1605" type="line" smooth="no"/>
-      <point x="463" y="1239" type="line" smooth="no"/>
-      <point x="214" y="1239" type="line" smooth="no"/>
-      <point x="428" y="1605" type="line" smooth="no"/>
+      <point x="779" y="1605" type="line"/>
+      <point x="468" y="1239" type="line"/>
+      <point x="304" y="1239" type="line"/>
+      <point x="508" y="1605" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1239</integer>
-	    <key>width</key>	    <integer>366</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>214</integer>
-	    <key>width</key>
-	    <integer>565</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1239</integer>
+            <key>width</key>
+            <integer>366</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>214</integer>
+            <key>width</key>
+            <integer>565</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>acute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>897</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

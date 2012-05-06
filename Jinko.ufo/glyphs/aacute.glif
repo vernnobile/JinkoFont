@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="1">
   <advance width="1204"/>
-  <unicode hex="00e1"/>
+  <unicode hex="00E1"/>
   <outline>
     <component base="acute" xOffset="88" yOffset="-15"/>
     <component base="a"/>
@@ -10,50 +10,85 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-20</integer>
-	    <key>width</key>	    <integer>247</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>504</integer>
-	    <key>width</key>	    <integer>190</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>864</integer>
-	    <key>width</key>	    <integer>258</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1224</integer>
-	    <key>width</key>	    <integer>366</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>61</integer>
-	    <key>width</key>
-	    <integer>357</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>302</integer>
-	    <key>width</key>
-	    <integer>565</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>751</integer>
-	    <key>width</key>
-	    <integer>358</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>247</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>504</integer>
+            <key>width</key>
+            <integer>190</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>864</integer>
+            <key>width</key>
+            <integer>258</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1224</integer>
+            <key>width</key>
+            <integer>366</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>61</integer>
+            <key>width</key>
+            <integer>357</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>302</integer>
+            <key>width</key>
+            <integer>565</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>751</integer>
+            <key>width</key>
+            <integer>358</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>aacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1204</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

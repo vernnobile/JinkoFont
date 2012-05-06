@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uacute" format="1">
   <advance width="1498"/>
-  <unicode hex="00da"/>
+  <unicode hex="00DA"/>
   <outline>
     <component base="acute" xOffset="252.5" yOffset="366"/>
     <component base="U"/>
@@ -10,42 +10,73 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-24</integer>
-	    <key>width</key>	    <integer>291</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1459</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1605</integer>
-	    <key>width</key>	    <integer>366</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>122</integer>
-	    <key>width</key>
-	    <integer>384</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>466</integer>
-	    <key>width</key>
-	    <integer>565</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>992</integer>
-	    <key>width</key>
-	    <integer>384</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-24</integer>
+            <key>width</key>
+            <integer>291</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1459</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1605</integer>
+            <key>width</key>
+            <integer>366</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>122</integer>
+            <key>width</key>
+            <integer>384</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>466</integer>
+            <key>width</key>
+            <integer>565</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>992</integer>
+            <key>width</key>
+            <integer>384</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Uacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1498</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

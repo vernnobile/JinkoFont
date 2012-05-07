@@ -15,13 +15,12 @@ UFODescent: -414
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-NeedsXUIDChange: 1
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1336259134
-ModificationTime: 1336259309
+CreationTime: 1336299764
+ModificationTime: 1336299764
 PfmFamily: 0
 TTFWeight: 400
 TTFWidth: 5
@@ -57,45 +56,24 @@ I01
 sS'com.typemytype.robofont.compileSettings.decompose'
 p3
 I01
-sS'com.typemytype.robofont.segmentType'
-p4
-S'curve'
-p5
 sS'com.typemytype.robofont.foreground.layerStrokeColor'
-p6
+p4
 (F0.5
 F0
 F0.5
 F0.69999999999999996
-tp7
+tp5
 sS'com.typemytype.robofont.compileSettings.releaseMode'
-p8
+p6
 I00
 sS'com.typemytype.robofont.shouldAddPointsInSplineConversion'
-p9
+p7
 I01
 sS'com.typemytype.robofont.compileSettings.checkOutlines'
-p10
+p8
 I01
-sS'com.typemytype.robofont.back.layerStrokeColor'
-p11
-(F0.5
-F1
-F0
-F0.69999999999999996
-tp12
-sS'com.typemytype.robofont.layerOrder'
-p13
-(S'back'
-tp14
-sS'com.typemytype.robofont.compileSettings.generateFormat'
-p15
-I0
-sS'com.typemytype.robofont.italicSlantOffset'
-p16
-I0
 sS'org.robofab.glyphOrder'
-p17
+p9
 (S'.notdef'
 S'space'
 S'exclam'
@@ -351,7 +329,28 @@ S'six.alt'
 S'nine.alt'
 S'uni2215'
 S'uni03A9'
-tp18
+tp10
+sS'com.typemytype.robofont.back.layerStrokeColor'
+p11
+(F0.5
+F1
+F0
+F0.69999999999999996
+tp12
+sS'com.typemytype.robofont.layerOrder'
+p13
+(S'back'
+tp14
+sS'com.typemytype.robofont.compileSettings.generateFormat'
+p15
+I0
+sS'com.typemytype.robofont.italicSlantOffset'
+p16
+I0
+sS'com.typemytype.robofont.segmentType'
+p17
+S'curve'
+p18
 sS'com.typemytype.robofont.sort'
 p19
 ((dp20
@@ -666,13 +665,12 @@ S'twosuperior'
 tp37
 s."
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 32 10
+WinInfo: 56 28 12
 BeginPrivate: 8
 BlueFuzz 1 1
 BlueScale 8 0.039625
@@ -1971,43 +1969,43 @@ VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I158
 sS'width'
-p7
+p9
 I315
-s(dp8
-g6
+s(dp10
+g8
 I1103
-sg7
+sg9
 I315
-stp9
+stp11
 sS'hhints'
-p10
-((dp11
-g6
+p12
+((dp13
+g8
 I0
-sg7
+sg9
 I21
-s(dp12
-g6
+s(dp14
+g8
 I685
-sg7
+sg9
 I231
-stp13
-ssS'com.typemytype.robofont.layerData'
-p14
-(dp15
-s."
-HStem: 0 21<217 473 217 217 1152 1408 1152 1152> 685 231
-VStem: 158 315 1103 315
+stp15
+ss."
+HStem: 0 21G<217 473 1152 1408> 715 209<473 1152>
+VStem: 217 256<0 715 924 1575> 1152 256<0 715 924 1575>
 LayerCount: 2
 Fore
 SplineSet
@@ -7097,62 +7095,312 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 109
-Width: 1207
+Width: 1150
 VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+S'back'
 p4
-((dp5
-S'position'
+(dp5
+S'name'
 p6
-I51
-sS'width'
+S'e'
+sS'lib'
 p7
-I359
-stp8
-sS'hhints'
+(dp8
+S'com.fontlab.hintData'
 p9
-((dp10
-g6
+(dp10
+S'vhints'
+p11
+((dp12
+S'position'
+p13
+I50
+sS'width'
+p14
+I365
+s(dp15
+g13
+I818
+sg14
+I367
+stp16
+sS'hhints'
+p17
+((dp18
+g13
+I-28
+sg14
+I260
+s(dp19
+g13
+I867
+sg14
+I255
+stp20
+sssS'unicodes'
+p21
+(tsg14
+I1150
+sS'contours'
+p22
+((dp23
+S'points'
+p24
+((dp25
+S'segmentType'
+p26
+S'curve'
+p27
+sS'x'
+F873
+sS'smooth'
+p28
+I01
+sS'y'
+F546
+s(dp29
+S'y'
+F819
+sS'x'
+F873
+sg28
+I00
+s(dp30
+S'y'
+F926
+sS'x'
+F770
+sg28
+I00
+s(dp31
+g26
+S'curve'
+p32
+sS'x'
+F596
+sg28
+I01
+sS'y'
+F926
+s(dp33
+S'y'
+F926
+sS'x'
+F437
+sg28
+I00
+s(dp34
+S'y'
+F817
+sS'x'
+F323
+sg28
+I00
+s(dp35
+g26
+S'curve'
+p36
+sS'x'
+F323
+sg28
+I01
+sS'y'
+F547
+s(dp37
+S'y'
+F280
+sS'x'
+F323
+sg28
+I00
+s(dp38
+S'y'
+F168
+sS'x'
+F430
+sg28
+I00
+s(dp39
+g26
+S'curve'
+p40
+sS'x'
+F599
+sg28
+I01
+sS'y'
+F168
+s(dp41
+S'y'
+F168
+sS'x'
+F788
+sg28
+I00
+s(dp42
+S'y'
+F299
+sS'x'
+F873
+sg28
+I00
+stp43
+s(dp44
+g24
+((dp45
+g26
+S'curve'
+p46
+sS'x'
+F596
+sg28
+I01
+sS'y'
+F-28
+s(dp47
+S'y'
+F-28
+sS'x'
+F296
+sg28
+I00
+s(dp48
+S'y'
+F157
+sS'x'
+F74
+sg28
+I00
+s(dp49
+g26
+S'curve'
+p50
+sS'x'
+F74
+sg28
+I01
+sS'y'
+F549
+s(dp51
+S'y'
+F942
+sS'x'
+F74
+sg28
+I00
+s(dp52
+S'y'
+F1122
+sS'x'
+F304
+sg28
+I00
+s(dp53
+g26
+S'curve'
+p54
+sS'x'
+F596
+sg28
+I01
+sS'y'
+F1122
+s(dp55
+S'y'
+F1122
+sS'x'
+F899
+sg28
+I00
+s(dp56
+S'y'
+F940
+sS'x'
+F1122
+sg28
+I00
+s(dp57
+g26
+S'curve'
+p58
+sS'x'
+F1122
+sg28
+I01
+sS'y'
+F548
+s(dp59
+S'y'
+F158
+sS'x'
+F1122
+sg28
+I00
+s(dp60
+S'y'
+F-28
+sS'x'
+F900
+sg28
+I00
+stp61
+stp62
+sS'components'
+p63
+(tsS'anchors'
+p64
+(tsssg9
+(dp65
+g11
+((dp66
+g13
+I51
+sg14
+I359
+stp67
+sg17
+((dp68
+g13
 I-25
-sg7
+sg14
 I257
-s(dp11
-g6
+s(dp69
+g13
 I466
-sg7
+sg14
 I215
-s(dp12
-g6
+s(dp70
+g13
 I893
-sg7
+sg14
 I229
-stp13
+stp71
 ss."
-HStem: -25 257<636 787 636 799.5> 466 215<410 797 410 1145 410 797> 893 229<547.5 665.5>
-VStem: 51 359<466 466 466 681 466 734>
+HStem: -25 257 466 215 893 229
+VStem: 51 359
 LayerCount: 2
 Fore
 SplineSet
-1145 466 m 1
- 410 466 l 1
- 424 286 552 232 720 232 c 0
- 854 232 999 292 1072 352 c 1
- 1127 96 l 1
- 1042 36 912 -25 687 -25 c 0
- 305 -25 51 147 51 544 c 0
- 51 924 284 1122 632 1122 c 0
- 956 1122 1145 940 1145 615 c 2
- 1145 466 l 1
-797 681 m 1
- 791 821 724 893 607 893 c 0
- 488 893 414 819 410 681 c 1
- 797 681 l 1
+1064 489 m 1
+ 325 489 l 1
+ 330 298 435 169 648 169 c 0
+ 789 169 911 213 992 266 c 1
+ 1046 86 l 1
+ 966 36 867 -27 624 -27 c 0
+ 304 -27 74 167 74 544 c 0
+ 74 917 304 1122 612 1122 c 0
+ 927 1122 1064 876 1064 545 c 2
+ 1064 489 l 1
+847 651 m 1
+ 841 786 797 941 610 941 c 0
+ 439 941 336 795 332 651 c 1
+ 847 651 l 1
 EndSplineSet
 Kerns2: 242 -12 "pos_pair_kernlatn_0 subtable"  242 -12 "kernHorizontalKerninginLatinloo subtable"  242 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  242 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar
@@ -7164,47 +7412,50 @@ VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I51
 sS'width'
-p7
+p9
 I359
-s(dp8
-g6
+s(dp10
+g8
 I316
-sg7
+sg9
 I565
-stp9
+stp11
 sS'hhints'
-p10
-((dp11
-g6
+p12
+((dp13
+g8
 I-25
-sg7
+sg9
 I257
-s(dp12
-g6
-I466
-sg7
-I215
-s(dp13
-g6
-I893
-sg7
-I229
 s(dp14
-g6
+g8
+I466
+sg9
+I215
+s(dp15
+g8
+I893
+sg9
+I229
+s(dp16
+g8
 I1224
-sg7
+sg9
 I366
-stp15
+stp17
 ss."
 HStem: -25 257 466 215 893 229 1224 366
 VStem: 51 359 316 565
@@ -7221,42 +7472,45 @@ VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I51
 sS'width'
-p7
-I359
-stp8
-sS'hhints'
 p9
-((dp10
-g6
+I359
+stp10
+sS'hhints'
+p11
+((dp12
+g8
 I-25
-sg7
+sg9
 I257
-s(dp11
-g6
-I466
-sg7
-I215
-s(dp12
-g6
-I893
-sg7
-I229
 s(dp13
-g6
+g8
+I466
+sg9
+I215
+s(dp14
+g8
+I893
+sg9
+I229
+s(dp15
+g8
 I1413
-sg7
+sg9
 I175
-stp14
+stp16
 ss."
 HStem: -25 257 466 215 893 229 1413 175
 VStem: 51 359
@@ -7273,47 +7527,50 @@ VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I51
 sS'width'
-p7
+p9
 I359
-s(dp8
-g6
+s(dp10
+g8
 I341
-sg7
+sg9
 I515
-stp9
+stp11
 sS'hhints'
-p10
-((dp11
-g6
+p12
+((dp13
+g8
 I-25
-sg7
+sg9
 I257
-s(dp12
-g6
-I466
-sg7
-I215
-s(dp13
-g6
-I893
-sg7
-I229
 s(dp14
-g6
+g8
+I466
+sg9
+I215
+s(dp15
+g8
+I893
+sg9
+I229
+s(dp16
+g8
 I1224
-sg7
+sg9
 I279
-stp15
+stp17
 ss."
 HStem: -25 257 466 215 893 229 1224 279
 VStem: 51 359 341 515
@@ -7330,47 +7587,50 @@ VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I51
 sS'width'
-p7
+p9
 I359
-s(dp8
-g6
+s(dp10
+g8
 I315
-sg7
+sg9
 I566
-stp9
+stp11
 sS'hhints'
-p10
-((dp11
-g6
+p12
+((dp13
+g8
 I-25
-sg7
+sg9
 I257
-s(dp12
-g6
-I466
-sg7
-I215
-s(dp13
-g6
-I893
-sg7
-I229
 s(dp14
-g6
+g8
+I466
+sg9
+I215
+s(dp15
+g8
+I893
+sg9
+I229
+s(dp16
+g8
 I1224
-sg7
+sg9
 I366
-stp15
+stp17
 ss."
 HStem: -25 257 466 215 893 229 1224 366
 VStem: 51 359 315 566
@@ -8820,313 +9080,313 @@ EndChar
 
 StartChar: h
 Encoding: 104 104 139
-Width: 1294
+Width: 1107
 VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
-p4
-((dp5
-S'position'
-p6
-I126
-sS'width'
-p7
-I358
-s(dp8
-g6
-I814
-sg7
-I361
-stp9
-sS'hhints'
-p10
-((dp11
-g6
-I0
-sg7
-I21
-s(dp12
-g6
-I832
-sg7
-I290
-s(dp13
-g6
-I1500
-sg7
-I20
-stp14
-ssS'com.typemytype.robofont.layerData'
-p15
-(dp16
 S'back'
-p17
-(dp18
+p4
+(dp5
 S'name'
-p19
+p6
 S'h'
 sS'lib'
-p20
-(dp21
-g2
-(dp22
-g4
-((dp23
-g6
+p7
+(dp8
+S'com.fontlab.hintData'
+p9
+(dp10
+S'vhints'
+p11
+((dp12
+S'position'
+p13
 I126
-sg7
+sS'width'
+p14
 I358
-s(dp24
-g6
+s(dp15
+g13
 I814
-sg7
+sg14
 I361
-stp25
-sg10
-((dp26
-g6
+stp16
+sS'hhints'
+p17
+((dp18
+g13
 I0
-sg7
+sg14
 I21
-s(dp27
-g6
+s(dp19
+g13
 I832
-sg7
+sg14
 I290
-s(dp28
-g6
+s(dp20
+g13
 I1500
-sg7
+sg14
 I20
-stp29
+stp21
 sssS'unicodes'
-p30
-(tsg7
-I1294
+p22
+(tsg14
+I1107
 sS'contours'
-p31
-((dp32
+p23
+((dp24
 S'points'
-p33
-((dp34
+p25
+((dp26
 S'segmentType'
-p35
+p27
 S'line'
-p36
+p28
 sS'x'
-F484
+F363
 sS'smooth'
-p37
+p29
 I00
 sS'y'
 F1520
-s(dp38
-g35
+s(dp30
+g27
 S'line'
-p39
+p31
 sS'x'
-F484
-sg37
+F363
+sg29
 I00
 sS'y'
 F966
-s(dp40
-g35
+s(dp32
+g27
 S'line'
-p41
+p33
 sS'x'
-F499
-sg37
+F378
+sg29
 I00
 sS'y'
 F983
-s(dp42
+s(dp34
 S'y'
 F1071
 sS'x'
-F600
-sg37
+F479
+sg29
 I00
-s(dp43
+s(dp35
 S'y'
 F1122
 sS'x'
-F685
-sg37
+F564
+sg29
 I00
-s(dp44
-g35
+s(dp36
+g27
 S'curve'
-p45
+p37
 sS'x'
-F812
-sg37
+F691
+sg29
 I01
 sS'y'
 F1122
-s(dp46
+s(dp38
 S'y'
 F1122
 sS'x'
-F1024
-sg37
+F903
+sg29
 I00
-s(dp47
+s(dp39
 S'y'
 F982
 sS'x'
-F1175
-sg37
+F1054
+sg29
 I00
-s(dp48
-g35
+s(dp40
+g27
 S'curve'
-p49
+p41
 sS'x'
-F1175
-sg37
+F1054
+sg29
 I01
 sS'y'
 F721
-s(dp50
-g35
+s(dp42
+g27
 S'line'
-p51
+p43
 sS'x'
-F1175
-sg37
+F1054
+sg29
 I00
 sS'y'
 F0
-s(dp52
-g35
+s(dp44
+g27
 S'line'
-p53
+p45
 sS'x'
-F814
-sg37
+F693
+sg29
 I00
 sS'y'
 F0
-s(dp54
-g35
+s(dp46
+g27
 S'line'
-p55
+p47
 sS'x'
-F814
-sg37
+F693
+sg29
 I01
 sS'y'
 F590
-s(dp56
+s(dp48
 S'y'
 F759
 sS'x'
-F814
-sg37
+F693
+sg29
 I00
-s(dp57
+s(dp49
 S'y'
 F832
 sS'x'
-F772
-sg37
+F651
+sg29
 I00
-s(dp58
-g35
+s(dp50
+g27
 S'curve'
-p59
+p51
 sS'x'
-F644
-sg37
+F523
+sg29
 I01
 sS'y'
 F832
-s(dp60
+s(dp52
 S'y'
 F832
 sS'x'
-F588
-sg37
+F467
+sg29
 I00
-s(dp61
+s(dp53
 S'y'
 F821
 sS'x'
-F541
-sg37
+F420
+sg29
 I00
-s(dp62
-g35
+s(dp54
+g27
 S'curve'
-p63
+p55
 sS'x'
-F484
-sg37
+F363
+sg29
 I00
 sS'y'
 F789
-s(dp64
-g35
+s(dp56
+g27
 S'line'
-p65
+p57
 sS'x'
-F484
-sg37
+F363
+sg29
 I00
 sS'y'
 F0
-s(dp66
-g35
+s(dp58
+g27
 S'line'
-p67
+p59
 sS'x'
-F126
-sg37
+F5
+sg29
 I00
 sS'y'
 F0
-s(dp68
-g35
+s(dp60
+g27
 S'line'
-p69
+p61
 sS'x'
-F126
-sg37
+F5
+sg29
 I00
 sS'y'
 F1520
-stp70
-stp71
+stp62
+stp63
 sS'components'
-p72
+p64
 (tsS'anchors'
-p73
-(tsss."
-HStem: 0 21<226 482 482 482 878 1134 1134 1134> 832 290 1500 20
+p65
+(tsssg9
+(dp66
+g11
+((dp67
+g13
+I126
+sg14
+I358
+s(dp68
+g13
+I814
+sg14
+I361
+stp69
+sg17
+((dp70
+g13
+I0
+sg14
+I21
+s(dp71
+g13
+I832
+sg14
+I290
+s(dp72
+g13
+I1500
+sg14
+I20
+stp73
+ss."
+HStem: 0 21<105 361 361 361 757 1013 1013 1013> 832 290 1500 20
 VStem: 126 358 814 361
 LayerCount: 2
 Fore
 SplineSet
-226 1575 m 1
- 226 0 l 1
- 482 0 l 1
- 482 811 l 2
- 482 873 590 911 712 911 c 0
- 840 911 878 842 878 673 c 2
- 878 0 l 1
- 1134 0 l 1
- 1134 701 l 2
- 1134 977 1008 1122 816 1122 c 0
- 687 1122 579 1067 513 994 c 2
- 482 960 l 1
- 482 1575 l 1
- 226 1575 l 1
+105 1575 m 1
+ 105 0 l 1
+ 361 0 l 1
+ 361 811 l 2
+ 361 873 469 911 591 911 c 0
+ 719 911 757 842 757 673 c 2
+ 757 0 l 1
+ 1013 0 l 1
+ 1013 701 l 2
+ 1013 977 887 1122 695 1122 c 0
+ 566 1122 458 1067 392 994 c 2
+ 361 960 l 1
+ 361 1575 l 1
+ 105 1575 l 1
 EndSplineSet
 EndChar
 
@@ -9216,46 +9476,46 @@ VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I99
 sS'width'
-p7
+p9
 I414
-s(dp8
-g6
+s(dp10
+g8
 I128
-sg7
+sg9
 I256
-stp9
+stp11
 sS'hhints'
-p10
-((dp11
-g6
+p12
+((dp13
+g8
 I0
-sg7
+sg9
 I21
-s(dp12
-g6
+s(dp14
+g8
 I1083
-sg7
+sg9
 I20
-s(dp13
-g6
+s(dp15
+g8
 I1242
-sg7
+sg9
 I397
-stp14
-ssS'com.typemytype.robofont.layerData'
-p15
-(dp16
-s."
+stp16
+ss."
 HStem: 0 21<128 128 128 384> 1083 20<128 384 384 384> 1242 397
 VStem: 99 414 128 256<0 1103 0 1103>
 LayerCount: 2
@@ -9268,7 +9528,7 @@ SplineSet
  99 1447 151 1521 256 1521 c 0
 128 0 m 1
  128 1103 l 1
- 384 1103 l 1
+ 384 1103 l 5
  384 0 l 1
  128 0 l 1
 EndSplineSet
@@ -9607,46 +9867,46 @@ VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I190
 sS'width'
-p7
+p9
 I414
-s(dp8
-g6
+s(dp10
+g8
 I216
-sg7
+sg9
 I360
-stp9
+stp11
 sS'hhints'
-p10
-((dp11
-g6
+p12
+((dp13
+g8
 I-419
-sg7
+sg9
 I264
-s(dp12
-g6
+s(dp14
+g8
 I1078
-sg7
+sg9
 I20
-s(dp13
-g6
+s(dp15
+g8
 I1242
-sg7
+sg9
 I397
-stp14
-ssS'com.typemytype.robofont.layerData'
-p15
-(dp16
-s."
+stp16
+ss."
 HStem: -419 264 1078 20 1242 397
 VStem: 190 414 216 360
 LayerCount: 2
@@ -10230,312 +10490,312 @@ EndChar
 
 StartChar: n
 Encoding: 110 110 162
-Width: 1294
+Width: 1127
 VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
-p4
-((dp5
-S'position'
-p6
-I126
-sS'width'
-p7
-I358
-s(dp8
-g6
-I817
-sg7
-I358
-stp9
-sS'hhints'
-p10
-((dp11
-g6
-I0
-sg7
-I21
-s(dp12
-g6
-I828
-sg7
-I294
-s(dp13
-g6
-I1078
-sg7
-I20
-stp14
-ssS'com.typemytype.robofont.layerData'
-p15
-(dp16
 S'back'
-p17
-(dp18
+p4
+(dp5
 S'name'
-p19
+p6
 S'n'
 sS'lib'
-p20
-(dp21
-g2
-(dp22
-g4
-((dp23
-g6
+p7
+(dp8
+S'com.fontlab.hintData'
+p9
+(dp10
+S'vhints'
+p11
+((dp12
+S'position'
+p13
 I126
-sg7
+sS'width'
+p14
 I358
-s(dp24
-g6
+s(dp15
+g13
 I814
-sg7
+sg14
 I361
-stp25
-sg10
-((dp26
-g6
+stp16
+sS'hhints'
+p17
+((dp18
+g13
 I0
-sg7
+sg14
 I21
-s(dp27
-g6
+s(dp19
+g13
 I832
-sg7
+sg14
 I290
-s(dp28
-g6
+s(dp20
+g13
 I1500
-sg7
+sg14
 I20
-stp29
+stp21
 sssS'unicodes'
-p30
-(tsg7
-I1294
+p22
+(tsg14
+I1127
 sS'contours'
-p31
-((dp32
+p23
+((dp24
 S'points'
-p33
-((dp34
+p25
+((dp26
 S'segmentType'
-p35
+p27
 S'line'
-p36
+p28
 sS'x'
-F226
+F112
 sS'smooth'
-p37
+p29
 I00
 sS'y'
 F1575
-s(dp38
-g35
+s(dp30
+g27
 S'line'
-p39
+p31
 sS'x'
-F226
-sg37
+F112
+sg29
 I00
 sS'y'
 F0
-s(dp40
-g35
+s(dp32
+g27
 S'line'
-p41
+p33
 sS'x'
-F482
-sg37
+F368
+sg29
 I00
 sS'y'
 F0
-s(dp42
-g35
+s(dp34
+g27
 S'line'
-p43
+p35
 sS'x'
-F482
-sg37
+F368
+sg29
 I00
 sS'y'
 F850
-s(dp44
+s(dp36
 S'y'
 F882
 sS'x'
-F539
-sg37
+F425
+sg29
 I00
-s(dp45
+s(dp37
 S'y'
 F911
 sS'x'
-F643
-sg37
+F529
+sg29
 I00
-s(dp46
-g35
+s(dp38
+g27
 S'curve'
-p47
+p39
 sS'x'
-F699
-sg37
+F585
+sg29
 I01
 sS'y'
 F911
-s(dp48
+s(dp40
 S'y'
 F911
 sS'x'
-F827
-sg37
+F713
+sg29
 I00
-s(dp49
+s(dp41
 S'y'
 F838
 sS'x'
-F878
-sg37
+F764
+sg29
 I00
-s(dp50
-g35
+s(dp42
+g27
 S'curve'
-p51
+p43
 sS'x'
-F878
-sg37
+F764
+sg29
 I01
 sS'y'
 F669
-s(dp52
-g35
+s(dp44
+g27
 S'line'
-p53
+p45
 sS'x'
-F878
-sg37
+F764
+sg29
 I00
 sS'y'
 F0
-s(dp54
-g35
+s(dp46
+g27
 S'line'
-p55
+p47
 sS'x'
-F1134
-sg37
+F1020
+sg29
 I00
 sS'y'
 F0
-s(dp56
-g35
+s(dp48
+g27
 S'line'
-p57
+p49
 sS'x'
-F1134
-sg37
+F1020
+sg29
 I01
 sS'y'
 F701
-s(dp58
+s(dp50
 S'y'
 F962
 sS'x'
-F1134
-sg37
+F1020
+sg29
 I00
-s(dp59
+s(dp51
 S'y'
 F1113
 sS'x'
-F1025
-sg37
+F911
+sg29
 I00
-s(dp60
-g35
+s(dp52
+g27
 S'curve'
-p61
+p53
 sS'x'
-F833
-sg37
+F719
+sg29
 I01
 sS'y'
 F1122
-s(dp62
+s(dp54
 S'y'
 F1128
 sS'x'
-F706
-sg37
+F592
+sg29
 I00
-s(dp63
+s(dp55
 S'y'
 F1086
 sS'x'
-F598
-sg37
+F484
+sg29
 I00
-s(dp64
-g35
+s(dp56
+g27
 S'curve'
-p65
+p57
 sS'x'
-F497
-sg37
+F383
+sg29
 I00
 sS'y'
 F998
-s(dp66
-g35
+s(dp58
+g27
 S'line'
-p67
+p59
 sS'x'
-F482
-sg37
+F368
+sg29
 I00
 sS'y'
 F982
-s(dp68
-g35
+s(dp60
+g27
 S'line'
-p69
+p61
 sS'x'
-F482
-sg37
+F368
+sg29
 I00
 sS'y'
 F1575
-stp70
-stp71
+stp62
+stp63
 sS'components'
-p72
+p64
 (tsS'anchors'
-p73
-(tsss."
-HStem: 0 21<226 482 226 226 878 1134 878 878> 828 294 1078 20
+p65
+(tsssg9
+(dp66
+g11
+((dp67
+g13
+I126
+sg14
+I358
+s(dp68
+g13
+I817
+sg14
+I358
+stp69
+sg17
+((dp70
+g13
+I0
+sg14
+I21
+s(dp71
+g13
+I828
+sg14
+I294
+s(dp72
+g13
+I1078
+sg14
+I20
+stp73
+ss."
+HStem: 0 21<104 360 104 104 776 1032 776 776> 828 294 1078 20
 VStem: 126 358 817 358
 LayerCount: 2
 Fore
 SplineSet
-878 0 m 1
- 878 659 l 2
- 878 840 850 909 702 909 c 0
- 575 909 482 858 482 810 c 2
- 482 0 l 1
- 226 0 l 1
- 226 1103 l 1
- 482 1103 l 1
- 482 949 l 1
- 554 1058 663 1122 816 1122 c 0
- 993 1122 1134 997 1134 736 c 2
- 1134 0 l 1
- 878 0 l 1
+776 0 m 1
+ 776 692 l 2
+ 776 873 713 925 590 925 c 0
+ 463 925 360 858 360 810 c 2
+ 360 0 l 1
+ 104 0 l 1
+ 104 1103 l 1
+ 360 1103 l 1
+ 360 949 l 1
+ 432 1058 551 1122 704 1122 c 0
+ 881 1122 1032 997 1032 736 c 2
+ 1032 0 l 1
+ 776 0 l 1
 EndSplineSet
 EndChar
 
@@ -10672,56 +10932,56 @@ VWidth: 0
 GlyphClass: 1
 Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I126
 sS'width'
-p7
+p9
 I358
-s(dp8
-g6
+s(dp10
+g8
 I817
-sg7
+sg9
 I358
-s(dp9
-g6
+s(dp11
+g8
 I879
-sg7
+sg9
 I211
-stp10
+stp12
 sS'hhints'
-p11
-((dp12
-g6
+p13
+((dp14
+g8
 I0
-sg7
+sg9
 I21
-s(dp13
-g6
-I828
-sg7
-I294
-s(dp14
-g6
-I1078
-sg7
-I20
 s(dp15
-g6
+g8
+I828
+sg9
+I294
+s(dp16
+g8
+I1078
+sg9
+I20
+s(dp17
+g8
 I1233
-sg7
+sg9
 I200
-stp16
-ssS'com.typemytype.robofont.layerData'
-p17
-(dp18
-s."
+stp18
+ss."
 HStem: 0 21 828 294 1078 20 1233 200
 VStem: 126 358 817 358 879 211
 LayerCount: 2
@@ -10833,57 +11093,308 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 167
-Width: 1235
+Width: 1216
 VWidth: 0
 GlyphClass: 1
-Flags: HWO
+Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+S'back'
 p4
-((dp5
-S'position'
+(dp5
+S'name'
 p6
+S'o'
+sS'lib'
+p7
+(dp8
+S'com.fontlab.hintData'
+p9
+(dp10
+S'vhints'
+p11
+((dp12
+S'position'
+p13
 I50
 sS'width'
-p7
-I365
-s(dp8
-g6
-I818
-sg7
-I367
-stp9
-sS'hhints'
-p10
-((dp11
-g6
-I-28
-sg7
-I260
-s(dp12
-g6
-I867
-sg7
-I255
-stp13
-ssS'com.typemytype.robofont.layerData'
 p14
-(dp15
-s."
+I365
+s(dp15
+g13
+I818
+sg14
+I367
+stp16
+sS'hhints'
+p17
+((dp18
+g13
+I-28
+sg14
+I260
+s(dp19
+g13
+I867
+sg14
+I255
+stp20
+sssS'unicodes'
+p21
+(tsg14
+I1216
+sS'contours'
+p22
+((dp23
+S'points'
+p24
+((dp25
+S'segmentType'
+p26
+S'curve'
+p27
+sS'x'
+I371
+sS'smooth'
+p28
+I01
+sS'y'
+I548
+s(dp29
+S'y'
+I285
+sS'x'
+I371
+sg28
+I00
+s(dp30
+S'y'
+I197
+sS'x'
+I468
+sg28
+I00
+s(dp31
+g26
+S'curve'
+p32
+sS'x'
+I612
+sg28
+I01
+sS'y'
+I197
+s(dp33
+S'y'
+I197
+sS'x'
+I721
+sg28
+I00
+s(dp34
+S'y'
+I277
+sS'x'
+I854
+sg28
+I00
+s(dp35
+g26
+S'curve'
+p36
+sS'x'
+I854
+sg28
+I01
+sS'y'
+I547
+s(dp37
+S'y'
+I814
+sS'x'
+I854
+sg28
+I00
+s(dp38
+S'y'
+I902
+sS'x'
+I728
+sg28
+I00
+s(dp39
+g26
+S'curve'
+p40
+sS'x'
+I609
+sg28
+I01
+sS'y'
+I902
+s(dp41
+S'y'
+I902
+sS'x'
+I450
+sg28
+I00
+s(dp42
+S'y'
+I781
+sS'x'
+I371
+sg28
+I00
+stp43
+s(dp44
+g24
+((dp45
+g26
+S'curve'
+p46
+sS'x'
+I612
+sg28
+I01
+sS'y'
+I1122
+s(dp47
+S'y'
+I1122
+sS'x'
+I985
+sg28
+I00
+s(dp48
+S'y'
+I917
+sS'x'
+I1179
+sg28
+I00
+s(dp49
+g26
+S'curve'
+p50
+sS'x'
+I1179
+sg28
+I01
+sS'y'
+I545
+s(dp51
+S'y'
+I172
+sS'x'
+I1179
+sg28
+I00
+s(dp52
+S'y'
+I-28
+sS'x'
+I986
+sg28
+I00
+s(dp53
+g26
+S'curve'
+p54
+sS'x'
+I612
+sg28
+I01
+sS'y'
+I-28
+s(dp55
+S'y'
+I-28
+sS'x'
+I269
+sg28
+I00
+s(dp56
+S'y'
+I174
+sS'x'
+I114
+sg28
+I00
+s(dp57
+g26
+S'curve'
+p58
+sS'x'
+I114
+sg28
+I01
+sS'y'
+I546
+s(dp59
+S'y'
+I916
+sS'x'
+I114
+sg28
+I00
+s(dp60
+S'y'
+I1122
+sS'x'
+I288
+sg28
+I00
+stp61
+stp62
+sS'components'
+p63
+(tsS'anchors'
+p64
+(tsssg9
+(dp65
+g11
+((dp66
+g13
+I50
+sg14
+I365
+s(dp67
+g13
+I818
+sg14
+I367
+stp68
+sg17
+((dp69
+g13
+I-28
+sg14
+I260
+s(dp70
+g13
+I867
+sg14
+I255
+stp71
+ss."
 HStem: -28 260 867 255
 VStem: 50 365 818 367
 LayerCount: 2
 Fore
 SplineSet
-618 1122 m 0
- 961 1122 1115 920 1115 548 c 0
- 1115 178 942 -28 618 -28 c 0
-618 192 m 0
- 777 192 858 313 858 546 c 0
- 858 809 762 897 618 897 c 0
+606 -28 m 0
+ 306 -28 74 157 74 549 c 0
+ 74 942 314 1122 606 1122 c 0
+ 909 1122 1142 940 1142 548 c 0
+ 1142 158 910 -28 606 -28 c 0
+893 546 m 0
+ 893 819 780 926 606 926 c 0
+ 447 926 323 817 323 547 c 0
+ 323 280 440 168 609 168 c 0
+ 798 168 893 299 893 546 c 0
 EndSplineSet
 EndChar
 
@@ -10892,53 +11403,53 @@ Encoding: 243 243 168
 Width: 1235
 VWidth: 0
 GlyphClass: 1
-Flags: HW
+Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I50
 sS'width'
-p7
+p9
 I365
-s(dp8
-g6
+s(dp10
+g8
 I335
-sg7
+sg9
 I565
-s(dp9
-g6
+s(dp11
+g8
 I818
-sg7
+sg9
 I367
-stp10
+stp12
 sS'hhints'
-p11
-((dp12
-g6
+p13
+((dp14
+g8
 I-28
-sg7
+sg9
 I260
-s(dp13
-g6
+s(dp15
+g8
 I867
-sg7
+sg9
 I255
-s(dp14
-g6
+s(dp16
+g8
 I1224
-sg7
+sg9
 I366
-stp15
-ssS'com.typemytype.robofont.layerData'
-p16
-(dp17
-s."
+stp17
+ss."
 HStem: -28 260 867 255 1224 366
 VStem: 50 365 335 565 818 367
 LayerCount: 2
@@ -10952,48 +11463,48 @@ Encoding: 244 244 169
 Width: 1235
 VWidth: 0
 GlyphClass: 1
-Flags: HW
+Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I50
 sS'width'
-p7
+p9
 I365
-s(dp8
-g6
+s(dp10
+g8
 I818
-sg7
+sg9
 I367
-stp9
+stp11
 sS'hhints'
-p10
-((dp11
-g6
+p12
+((dp13
+g8
 I-28
-sg7
+sg9
 I260
-s(dp12
-g6
+s(dp14
+g8
 I867
-sg7
+sg9
 I255
-s(dp13
-g6
+s(dp15
+g8
 I1413
-sg7
+sg9
 I175
-stp14
-ssS'com.typemytype.robofont.layerData'
-p15
-(dp16
-s."
+stp16
+ss."
 HStem: -28 260 867 255 1413 175
 VStem: 50 365 818 367
 LayerCount: 2
@@ -11007,53 +11518,53 @@ Encoding: 246 246 170
 Width: 1235
 VWidth: 0
 GlyphClass: 1
-Flags: HW
+Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I50
 sS'width'
-p7
+p9
 I365
-s(dp8
-g6
+s(dp10
+g8
 I360
-sg7
+sg9
 I515
-s(dp9
-g6
+s(dp11
+g8
 I818
-sg7
+sg9
 I367
-stp10
+stp12
 sS'hhints'
-p11
-((dp12
-g6
+p13
+((dp14
+g8
 I-28
-sg7
+sg9
 I260
-s(dp13
-g6
+s(dp15
+g8
 I867
-sg7
+sg9
 I255
-s(dp14
-g6
+s(dp16
+g8
 I1224
-sg7
+sg9
 I279
-stp15
-ssS'com.typemytype.robofont.layerData'
-p16
-(dp17
-s."
+stp17
+ss."
 HStem: -28 260 867 255 1224 279
 VStem: 50 365 360 515 818 367
 LayerCount: 2
@@ -11198,53 +11709,53 @@ Encoding: 242 242 173
 Width: 1235
 VWidth: 0
 GlyphClass: 1
-Flags: HW
+Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I50
 sS'width'
-p7
+p9
 I365
-s(dp8
-g6
+s(dp10
+g8
 I334
-sg7
+sg9
 I566
-s(dp9
-g6
+s(dp11
+g8
 I818
-sg7
+sg9
 I367
-stp10
+stp12
 sS'hhints'
-p11
-((dp12
-g6
+p13
+((dp14
+g8
 I-28
-sg7
+sg9
 I260
-s(dp13
-g6
+s(dp15
+g8
 I867
-sg7
+sg9
 I255
-s(dp14
-g6
+s(dp16
+g8
 I1224
-sg7
+sg9
 I366
-stp15
-ssS'com.typemytype.robofont.layerData'
-p16
-(dp17
-s."
+stp17
+ss."
 HStem: -28 260 867 255 1224 366
 VStem: 50 365 334 566 818 367
 LayerCount: 2
@@ -11730,53 +12241,53 @@ Encoding: 245 245 181
 Width: 1235
 VWidth: 0
 GlyphClass: 1
-Flags: HW
+Flags: W
 PickledData: "(dp1
-S'com.fontlab.hintData'
+S'com.typemytype.robofont.layerData'
 p2
 (dp3
-S'vhints'
+sS'com.fontlab.hintData'
 p4
-((dp5
-S'position'
+(dp5
+S'vhints'
 p6
+((dp7
+S'position'
+p8
 I50
 sS'width'
-p7
+p9
 I365
-s(dp8
-g6
+s(dp10
+g8
 I818
-sg7
+sg9
 I367
-s(dp9
-g6
+s(dp11
+g8
 I846
-sg7
+sg9
 I211
-stp10
+stp12
 sS'hhints'
-p11
-((dp12
-g6
+p13
+((dp14
+g8
 I-28
-sg7
+sg9
 I260
-s(dp13
-g6
+s(dp15
+g8
 I867
-sg7
+sg9
 I255
-s(dp14
-g6
+s(dp16
+g8
 I1233
-sg7
+sg9
 I200
-stp15
-ssS'com.typemytype.robofont.layerData'
-p16
-(dp17
-s."
+stp17
+ss."
 HStem: -28 260 867 255 1233 200
 VStem: 50 365 818 367 846 211
 LayerCount: 2

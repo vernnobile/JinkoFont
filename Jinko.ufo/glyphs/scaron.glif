@@ -10,21 +10,52 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-25</integer>
-	    <key>width</key>	    <integer>245</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>877</integer>
-	    <key>width</key>	    <integer>246</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1225</integer>
-	    <key>width</key>	    <integer>165</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-25</integer>
+            <key>width</key>
+            <integer>245</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>877</integer>
+            <key>width</key>
+            <integer>246</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1225</integer>
+            <key>width</key>
+            <integer>165</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>scaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1072</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -1,45 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="1">
-  <advance width="1023"/>
-  <unicode hex="00e7"/>
+  <advance width="1113"/>
+  <unicode hex="00E7"/>
   <outline>
-    <component base="cedilla" xOffset="58" yOffset="-9"/>
     <component base="c"/>
+    <component base="cedilla" xOffset="63.5"/>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-556</integer>
-	    <key>width</key>	    <integer>139</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>-25</integer>
-	    <key>width</key>	    <integer>260</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>866</integer>
-	    <key>width</key>	    <integer>256</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>44</integer>
-	    <key>width</key>
-	    <integer>366</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>635</integer>
-	    <key>width</key>
-	    <integer>180</integer>
-	  </dict>
-	</array>
       </dict>
     </dict>
   </lib>

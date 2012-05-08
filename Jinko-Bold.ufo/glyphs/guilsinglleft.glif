@@ -1,47 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="1">
-  <advance width="797"/>
+  <advance width="800"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="640" y="142" type="curve" smooth="no"/>
-      <point x="464" y="291"/>
-      <point x="285" y="437"/>
-      <point x="106" y="584" type="curve" smooth="no"/>
-      <point x="125" y="698" type="line" smooth="no"/>
-      <point x="116" y="692" type="line" smooth="no"/>
-      <point x="647" y="1118" type="line" smooth="no"/>
-      <point x="645" y="822" type="line" smooth="no"/>
-      <point x="401" y="630" type="line" smooth="no"/>
-      <point x="544" y="516" type="line" smooth="yes"/>
-      <point x="578" y="490"/>
-      <point x="610" y="462"/>
-      <point x="643" y="437" type="curve" smooth="no"/>
-      <point x="641" y="339"/>
-      <point x="640" y="241"/>
+      <point x="643" y="143" type="curve"/>
+      <point x="643" y="242"/>
+      <point x="644" y="341"/>
+      <point x="646" y="439" type="curve"/>
+      <point x="613" y="464"/>
+      <point x="580" y="492"/>
+      <point x="546" y="518" type="curve"/>
+      <point x="403" y="633" type="line"/>
+      <point x="648" y="825" type="line"/>
+      <point x="650" y="1122" type="line"/>
+      <point x="116" y="695" type="line"/>
+      <point x="126" y="701" type="line"/>
+      <point x="106" y="586" type="line"/>
+      <point x="286" y="438"/>
+      <point x="466" y="293"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>822</integer>
-	    <key>width</key>	    <integer>296</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>106</integer>
-	    <key>width</key>
-	    <integer>534</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

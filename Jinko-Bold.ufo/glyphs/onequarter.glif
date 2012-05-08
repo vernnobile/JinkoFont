@@ -1,88 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="1478"/>
-  <unicode hex="00bc"/>
+  <advance width="1483"/>
+  <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="240" y="588" type="line" smooth="no"/>
-      <point x="240" y="1290" type="line" smooth="no"/>
-      <point x="104" y="1200" type="line" smooth="no"/>
-      <point x="104" y="1372" type="line" smooth="no"/>
-      <point x="240" y="1462" type="line" smooth="no"/>
-      <point x="412" y="1462" type="line" smooth="no"/>
-      <point x="412" y="588" type="line" smooth="no"/>
+      <point x="1178" y="0" type="line"/>
+      <point x="1350" y="0" type="line"/>
+      <point x="1350" y="128" type="line"/>
+      <point x="1419" y="128" type="line"/>
+      <point x="1419" y="275" type="line"/>
+      <point x="1350" y="275" type="line"/>
+      <point x="1350" y="502" type="line"/>
+      <point x="1178" y="502" type="line"/>
+      <point x="1178" y="275" type="line"/>
+      <point x="953" y="275" type="line"/>
+      <point x="1267" y="873" type="line"/>
+      <point x="1093" y="873" type="line"/>
+      <point x="774" y="275" type="line"/>
+      <point x="774" y="128" type="line"/>
+      <point x="1178" y="128" type="line"/>
     </contour>
     <contour>
-      <point x="771" y="127" type="line" smooth="no"/>
-      <point x="771" y="274" type="line" smooth="no"/>
-      <point x="1089" y="870" type="line" smooth="no"/>
-      <point x="1262" y="870" type="line" smooth="no"/>
-      <point x="949" y="274" type="line" smooth="no"/>
-      <point x="1173" y="274" type="line" smooth="no"/>
-      <point x="1173" y="500" type="line" smooth="no"/>
-      <point x="1345" y="500" type="line" smooth="no"/>
-      <point x="1345" y="274" type="line" smooth="no"/>
-      <point x="1413" y="274" type="line" smooth="no"/>
-      <point x="1413" y="127" type="line" smooth="no"/>
-      <point x="1345" y="127" type="line" smooth="no"/>
-      <point x="1345" y="0" type="line" smooth="no"/>
-      <point x="1173" y="0" type="line" smooth="no"/>
-      <point x="1173" y="127" type="line" smooth="no"/>
+      <point x="241" y="590" type="line"/>
+      <point x="414" y="590" type="line"/>
+      <point x="414" y="1468" type="line"/>
+      <point x="241" y="1468" type="line"/>
+      <point x="104" y="1377" type="line"/>
+      <point x="104" y="1205" type="line"/>
+      <point x="241" y="1295" type="line"/>
     </contour>
     <contour>
-      <point x="199" y="-35" type="line" smooth="no"/>
-      <point x="1083" y="1493" type="line" smooth="no"/>
-      <point x="1219" y="1493" type="line" smooth="no"/>
-      <point x="334" y="-35" type="line" smooth="no"/>
+      <point x="200" y="-35" type="line"/>
+      <point x="335" y="-35" type="line"/>
+      <point x="1224" y="1499" type="line"/>
+      <point x="1087" y="1499" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>127</integer>
-	    <key>width</key>	    <integer>147</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1473</integer>
-	    <key>width</key>	    <integer>20</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>199</integer>
-	    <key>width</key>
-	    <integer>135</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>240</integer>
-	    <key>width</key>
-	    <integer>172</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1083</integer>
-	    <key>width</key>
-	    <integer>136</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1173</integer>
-	    <key>width</key>
-	    <integer>172</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

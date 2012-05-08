@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="1550"/>
+  <advance width="1514"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="1408" y="0" type="line"/>
-      <point x="1152" y="0" type="line"/>
-      <point x="1152" y="715" type="line"/>
-      <point x="473" y="715" type="line"/>
-      <point x="473" y="0" type="line"/>
-      <point x="217" y="0" type="line"/>
-      <point x="217" y="1575" type="line"/>
-      <point x="473" y="1575" type="line"/>
-      <point x="473" y="924" type="line"/>
-      <point x="1152" y="924" type="line"/>
-      <point x="1152" y="1575" type="line"/>
-      <point x="1408" y="1575" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="411" y="715" type="line"/>
+      <point x="1103" y="715" type="line"/>
+      <point x="1103" y="0" type="line"/>
+      <point x="1359" y="0" type="line"/>
+      <point x="1359" y="1575" type="line"/>
+      <point x="1103" y="1575" type="line"/>
+      <point x="1103" y="907" type="line"/>
+      <point x="411" y="907" type="line"/>
+      <point x="411" y="1575" type="line"/>
+      <point x="155" y="1575" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -75,7 +75,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1550</integer>
+          <integer>1514</integer>
         </dict>
       </dict>
     </dict>

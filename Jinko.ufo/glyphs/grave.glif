@@ -4,10 +4,10 @@
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="713" y="1239" type="line"/>
-      <point x="463" y="1239" type="line"/>
-      <point x="147" y="1605" type="line"/>
-      <point x="497" y="1605" type="line"/>
+      <point x="304" y="1209" type="line"/>
+      <point x="468" y="1209" type="line"/>
+      <point x="248" y="1575" type="line"/>
+      <point x="32" y="1575" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +32,76 @@
             <integer>566</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>468.0</real>
+                  <key>y</key>
+                  <real>1209.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>779.0</real>
+                  <key>y</key>
+                  <real>1575.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>508.0</real>
+                  <key>y</key>
+                  <real>1575.0</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>304.0</real>
+                  <key>y</key>
+                  <real>1209.0</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>grave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>896</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

@@ -5,18 +5,18 @@
   <outline>
     <contour>
       <point x="1430" y="-15" type="line"/>
-      <point x="135" y="500" type="line"/>
-      <point x="135" y="720" type="line"/>
-      <point x="1430" y="1234" type="line"/>
-      <point x="1430" y="970" type="line"/>
-      <point x="763" y="712" type="line"/>
-      <point x="666" y="681"/>
-      <point x="570" y="650"/>
-      <point x="473" y="618" type="curve"/>
-      <point x="562" y="584"/>
-      <point x="652" y="550"/>
-      <point x="741" y="517" type="curve"/>
       <point x="1430" y="249" type="line"/>
+      <point x="741" y="517" type="line"/>
+      <point x="652" y="550"/>
+      <point x="562" y="584"/>
+      <point x="473" y="618" type="curve"/>
+      <point x="570" y="650"/>
+      <point x="666" y="681"/>
+      <point x="763" y="712" type="curve"/>
+      <point x="1430" y="970" type="line"/>
+      <point x="1430" y="1234" type="line"/>
+      <point x="135" y="720" type="line"/>
+      <point x="135" y="500" type="line"/>
     </contour>
   </outline>
   <lib>

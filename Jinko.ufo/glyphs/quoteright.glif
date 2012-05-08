@@ -4,10 +4,10 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="535" y="1523" type="line"/>
-      <point x="350" y="1060" type="line"/>
-      <point x="97" y="1005" type="line"/>
-      <point x="202" y="1523" type="line"/>
+      <point x="97" y="1057" type="line"/>
+      <point x="260" y="1057" type="line"/>
+      <point x="445" y="1575" type="line"/>
+      <point x="202" y="1575" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +32,31 @@
             <integer>438</integer>
           </dict>
         </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quoteright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>564</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

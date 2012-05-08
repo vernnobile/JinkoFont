@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="1222"/>
+  <advance width="1299"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="1222.5" y="1198" type="line" smooth="no"/>
-      <point x="803.5" y="1198" type="line" smooth="no"/>
-      <point x="803.5" y="0" type="line" smooth="no"/>
-      <point x="419.5" y="0" type="line" smooth="no"/>
-      <point x="419.5" y="1198" type="line" smooth="no"/>
-      <point x="-0.5" y="1198" type="line" smooth="no"/>
-      <point x="-0.5" y="1479" type="line" smooth="no"/>
-      <point x="1222.5" y="1479" type="line" smooth="no"/>
+      <point x="446" y="0" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="855" y="1275" type="line"/>
+      <point x="1301" y="1275" type="line"/>
+      <point x="1301" y="1574" type="line"/>
+      <point x="-1" y="1574" type="line"/>
+      <point x="-1" y="1275" type="line"/>
+      <point x="446" y="1275" type="line"/>
+    </contour>
+    <contour>
+      <point x="650" y="1574" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="650" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="650" y="787" type="move" name="center"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1198</integer>
-	    <key>width</key>	    <integer>281</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>420</integer>
-	    <key>width</key>
-	    <integer>384</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

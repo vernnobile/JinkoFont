@@ -1,40 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="1245"/>
+  <advance width="1323"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="1176" y="1192" type="line" smooth="no"/>
-      <point x="574" y="0" type="line" smooth="no"/>
-      <point x="148" y="0" type="line" smooth="no"/>
-      <point x="768" y="1196" type="line" smooth="no"/>
-      <point x="332" y="1196" type="line" smooth="no"/>
-      <point x="332" y="1119" type="line" smooth="no"/>
-      <point x="108" y="1119" type="line" smooth="no"/>
-      <point x="108" y="1479" type="line" smooth="no"/>
-      <point x="1176" y="1479" type="line" smooth="no"/>
+      <point x="158" y="0" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="1252" y="1269" type="line"/>
+      <point x="1252" y="1574" type="line"/>
+      <point x="114" y="1574" type="line"/>
+      <point x="114" y="1190" type="line"/>
+      <point x="353" y="1190" type="line"/>
+      <point x="353" y="1273" type="line"/>
+      <point x="817" y="1273" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1119</integer>
-	    <key>width</key>	    <integer>360</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1196</integer>
-	    <key>width</key>	    <integer>283</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

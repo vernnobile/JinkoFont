@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
   <advance width="1217"/>
-  <unicode hex="017d"/>
+  <unicode hex="017D"/>
   <outline>
     <component base="caron" xOffset="168.5" yOffset="380"/>
     <component base="Z"/>
@@ -10,21 +10,52 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>286</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1198</integer>
-	    <key>width</key>	    <integer>281</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1605</integer>
-	    <key>width</key>	    <integer>165</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>286</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1198</integer>
+            <key>width</key>
+            <integer>281</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1605</integer>
+            <key>width</key>
+            <integer>165</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Zcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1217</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

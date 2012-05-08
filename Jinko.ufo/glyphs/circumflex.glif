@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
   <advance width="894"/>
-  <unicode hex="02c6"/>
+  <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="880" y="1241" type="line" smooth="no"/>
-      <point x="602" y="1241" type="line" smooth="no"/>
-      <point x="446" y="1430" type="line" smooth="no"/>
-      <point x="290" y="1241" type="line" smooth="no"/>
-      <point x="16" y="1241" type="line" smooth="no"/>
-      <point x="322" y="1605" type="line" smooth="no"/>
-      <point x="573" y="1605" type="line" smooth="no"/>
+      <point x="880" y="1241" type="line"/>
+      <point x="602" y="1241" type="line"/>
+      <point x="446" y="1430" type="line"/>
+      <point x="290" y="1241" type="line"/>
+      <point x="16" y="1241" type="line"/>
+      <point x="322" y="1605" type="line"/>
+      <point x="573" y="1605" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1430</integer>
-	    <key>width</key>	    <integer>175</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1430</integer>
+            <key>width</key>
+            <integer>175</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

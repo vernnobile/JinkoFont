@@ -4,17 +4,17 @@
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="500.036399483" y="0" type="curve" smooth="yes"/>
-      <point x="587.036399483" y="0" type="line"/>
-      <point x="587.036399483" y="192" type="line"/>
-      <point x="443.036399483" y="192"/>
-      <point x="379.036399483" y="190"/>
-      <point x="379.036399483" y="327" type="curve" smooth="yes"/>
-      <point x="379.036399483" y="1520" type="line"/>
-      <point x="123.036399483" y="1520" type="line"/>
-      <point x="123.036399483" y="377" type="line" smooth="yes"/>
-      <point x="123.036399483" y="216"/>
-      <point x="83.0363994834" y="0"/>
+      <point x="500" y="-7" type="curve" smooth="yes"/>
+      <point x="587" y="-7" type="line"/>
+      <point x="587" y="185" type="line"/>
+      <point x="443" y="185"/>
+      <point x="379" y="183"/>
+      <point x="379" y="320" type="curve" smooth="yes"/>
+      <point x="379.036399483" y="1520.0" type="line"/>
+      <point x="123.036399483" y="1520.0" type="line"/>
+      <point x="123" y="370" type="line" smooth="yes"/>
+      <point x="123" y="209"/>
+      <point x="83" y="-7"/>
     </contour>
   </outline>
   <lib>
@@ -68,7 +68,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>624.03639948341959</real>
+          <real>624.036399483</real>
         </dict>
       </dict>
     </dict>

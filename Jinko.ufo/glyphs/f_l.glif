@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_l" format="1">
   <advance width="1101"/>
-  <unicode hex="FB02"/>
   <outline>
     <contour>
       <point x="168" y="0" type="line"/>
@@ -40,47 +39,4 @@
       <point x="828" y="0"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>197</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>879</integer>
-            <key>width</key>
-            <integer>159</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1262</integer>
-            <key>width</key>
-            <integer>196</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>168</integer>
-            <key>width</key>
-            <integer>209</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>714</integer>
-            <key>width</key>
-            <integer>209</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

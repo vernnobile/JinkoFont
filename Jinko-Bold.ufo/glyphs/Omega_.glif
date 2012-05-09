@@ -39,6 +39,9 @@
       <point x="82" y="230" type="line"/>
     </contour>
     <contour>
+      <point x="20" y="1574" type="move"/>
+    </contour>
+    <contour>
       <point x="20" y="1574" type="move" name="topleft"/>
     </contour>
   </outline>

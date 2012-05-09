@@ -39,42 +39,8 @@
       <point x="317" y="170" type="line"/>
       <point x="72" y="170" type="line"/>
     </contour>
+    <contour>
+      <point x="20" y="1574" type="move" name="topleft"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>170</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1274</integer>
-            <key>width</key>
-            <integer>178</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>96</integer>
-            <key>width</key>
-            <integer>203</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>939</integer>
-            <key>width</key>
-            <integer>203</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

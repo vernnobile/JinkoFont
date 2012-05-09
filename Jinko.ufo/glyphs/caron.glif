@@ -12,21 +12,8 @@
       <point x="270" y="1605" type="line"/>
       <point x="-6" y="1605" type="line"/>
     </contour>
+    <contour>
+      <point x="445.5" y="1098" type="move" name="_top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>1245</integer>
-            <key>width</key>
-            <integer>165</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

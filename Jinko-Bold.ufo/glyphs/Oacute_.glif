@@ -3,35 +3,13 @@
   <advance width="1611"/>
   <unicode hex="00D3"/>
   <outline>
+    <component base="acute" xOffset="465.5" yOffset="458"/>
     <component base="O"/>
-    <component base="acute" xOffset="307.5" yOffset="476"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Oacute</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1611</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

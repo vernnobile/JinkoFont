@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.superior" format="1">
   <advance width="639"/>
-  <unicode hex="00B3"/>
   <outline>
     <contour>
       <point x="311" y="580" type="curve" smooth="yes"/>
@@ -47,47 +46,4 @@
       <point x="152" y="580"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>580</integer>
-            <key>width</key>
-            <integer>147</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>973</integer>
-            <key>width</key>
-            <integer>135</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1323</integer>
-            <key>width</key>
-            <integer>147</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>16</integer>
-            <key>width</key>
-            <integer>172</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>458</integer>
-            <key>width</key>
-            <integer>172</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

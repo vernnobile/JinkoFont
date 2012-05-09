@@ -32,6 +32,9 @@
       <point x="532" y="-434"/>
     </contour>
     <contour>
+      <point x="712" y="10" type="move"/>
+    </contour>
+    <contour>
       <point x="712" y="10" type="move" name="_ogonek"/>
     </contour>
   </outline>

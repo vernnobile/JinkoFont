@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-414</integer>
 	<key>familyName</key>
-	<string>Jinko Bold</string>
+	<string>Jinko Bold Bold</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>macintoshFONDName</key>
@@ -17,17 +17,17 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/04/08 08:30:10</string>
+	<string>2012/05/09 15:07:14</string>
 	<key>openTypeHheaAscender</key>
-	<integer>1901</integer>
+	<integer>1638</integer>
 	<key>openTypeHheaDescender</key>
-	<integer>-483</integer>
+	<integer>410</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Jinko Bold</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Jinko</string>
+	<string>Jinko Bold</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Bold</string>
 	<key>openTypeNameUniqueID</key>

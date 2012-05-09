@@ -8,28 +8,19 @@
       <point x="854" y="-25"/>
       <point x="1003" y="23"/>
       <point x="1148" y="113" type="curve"/>
-      <point x="1194" y="70"/>
-      <point x="1240" y="26"/>
-      <point x="1283" y="-20" type="curve"/>
-      <point x="1336" y="-17"/>
-      <point x="1391" y="-12"/>
-      <point x="1444" y="-8" type="curve"/>
-      <point x="1791" y="-2" type="line"/>
-      <point x="1700" y="41"/>
-      <point x="1632" y="124"/>
-      <point x="1559" y="194" type="curve" smooth="yes"/>
-      <point x="1505" y="246"/>
+      <point x="1148" y="113"/>
+      <point x="1283" y="0"/>
+      <point x="1283" y="0" type="curve"/>
+      <point x="1791" y="0" type="line"/>
+      <point x="1791" y="0"/>
       <point x="1449" y="298"/>
       <point x="1395" y="349" type="curve"/>
-      <point x="1503" y="450"/>
-      <point x="1539" y="567"/>
-      <point x="1560" y="685" type="curve"/>
-      <point x="1566" y="726"/>
-      <point x="1572" y="768"/>
+      <point x="1540.32526261" y="484.906032626"/>
+      <point x="1560.42606938" y="655.154176408"/>
       <point x="1576" y="807" type="curve"/>
       <point x="1205" y="835" type="line"/>
-      <point x="1192" y="743"/>
-      <point x="1170" y="661"/>
+      <point x="1205" y="792"/>
+      <point x="1203" y="643"/>
       <point x="1168" y="560" type="curve"/>
       <point x="1067" y="661"/>
       <point x="966" y="764"/>
@@ -81,4 +72,11 @@
       <point x="789" y="1089"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

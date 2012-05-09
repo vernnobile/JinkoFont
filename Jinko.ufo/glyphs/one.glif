@@ -9,9 +9,7 @@
       <point x="1050" y="192" type="line"/>
       <point x="780" y="192" type="line"/>
       <point x="780" y="1575" type="line"/>
-      <point x="780" y="1575"/>
-      <point x="494" y="1575"/>
-      <point x="494" y="1575" type="curve"/>
+      <point x="494" y="1575" type="line"/>
       <point x="454" y="1494"/>
       <point x="382" y="1427"/>
       <point x="228" y="1389" type="curve"/>
@@ -21,60 +19,4 @@
       <point x="253" y="192" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>275</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1462</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>469</integer>
-            <key>width</key>
-            <integer>371</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>one</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1245</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

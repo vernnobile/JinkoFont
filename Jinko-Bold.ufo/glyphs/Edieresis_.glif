@@ -3,36 +3,7 @@
   <advance width="1344"/>
   <unicode hex="00CB"/>
   <outline>
+    <component base="dieresis" xOffset="265.500" yOffset="451"/>
     <component base="E"/>
-    <component base="dieresis" xOffset="228.5" yOffset="476"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>Edieresis</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1344</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

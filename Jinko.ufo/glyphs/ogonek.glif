@@ -31,30 +31,8 @@
       <point x="516" y="-432"/>
       <point x="530" y="-432"/>
     </contour>
+    <contour>
+      <point x="709" y="10" type="move" name="_ogonek"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-432</integer>
-            <key>width</key>
-            <integer>143</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>270</integer>
-            <key>width</key>
-            <integer>176</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

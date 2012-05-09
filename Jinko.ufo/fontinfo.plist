@@ -6,12 +6,10 @@
 	<integer>1521</integer>
 	<key>capHeight</key>
 	<integer>1575</integer>
-	<key>copyright</key>
-	<string></string>
 	<key>descender</key>
 	<integer>-414</integer>
 	<key>familyName</key>
-	<string>Jinko</string>
+	<string>Jinko Book</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>macintoshFONDName</key>
@@ -19,9 +17,19 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/03/27 07:56:45</string>
+	<string>2012/05/09 15:06:51</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1901</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-483</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Jinko Bold</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Jinko</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Book</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 0.1</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -52,12 +60,6 @@
 		<integer>0</integer>
 		<integer>0</integer>
 	</array>
-	<key>openTypeOS2TypoAscender</key>
-	<integer>1901</integer>
-	<key>openTypeOS2TypoDescender</key>
-	<integer>-483</integer>
-	<key>openTypeOS2TypoLineGap</key>
-	<integer>0</integer>
 	<key>openTypeOS2VendorID</key>
 	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
@@ -71,7 +73,7 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
+	<real>0.039625000208616257</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -84,12 +86,6 @@
 		<integer>1503</integer>
 		<integer>1520</integer>
 		<integer>1532</integer>
-	</array>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Jinko</string>
@@ -125,16 +121,18 @@
 		<integer>383</integer>
 		<integer>394</integer>
 	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-205</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>102</integer>
 	<key>postscriptWeightName</key>
-	<string>Book</string>
+	<string>Normal</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Book</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>1098</integer>
 </dict>

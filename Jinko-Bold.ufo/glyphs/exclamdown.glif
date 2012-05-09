@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="1">
-  <advance width="641"/>
+  <advance width="679"/>
   <unicode hex="00A1"/>
   <outline>
-    <contour>
-      <point x="122" y="1081" type="line"/>
-      <point x="182" y="1084"/>
-      <point x="239" y="1084"/>
-      <point x="297" y="1084" type="curve" smooth="yes"/>
-      <point x="371" y="1084"/>
-      <point x="446" y="1083"/>
-      <point x="521" y="1081" type="curve"/>
-      <point x="521" y="1168"/>
-      <point x="521" y="1255"/>
-      <point x="522" y="1343" type="curve"/>
-      <point x="480" y="1343"/>
-      <point x="441" y="1342"/>
-      <point x="400" y="1342" type="curve" smooth="yes"/>
-      <point x="344" y="1342" type="line" smooth="yes"/>
-      <point x="271" y="1342"/>
-      <point x="197" y="1342"/>
-      <point x="122" y="1344" type="curve"/>
-    </contour>
-    <contour>
-      <point x="112" y="-144" type="line"/>
-      <point x="498" y="-144" type="line"/>
-      <point x="470" y="933" type="line"/>
-      <point x="142" y="933" type="line"/>
-    </contour>
+    <component base="exclam" xScale="-1.0" xyScale="-2.22044604925e-16" yxScale="2.22044604925e-16" yScale="-1.0" xOffset="712" yOffset="1103"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

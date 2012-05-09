@@ -6,40 +6,10 @@
     <contour>
       <point x="96" y="-260" type="line"/>
       <point x="353" y="-260" type="line"/>
-      <point x="442" y="-11" type="line"/>
-      <point x="473" y="79"/>
+      <point x="353" y="-260"/>
       <point x="504" y="169"/>
       <point x="536" y="259" type="curve"/>
       <point x="202" y="259" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quotesinglbase</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>566</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

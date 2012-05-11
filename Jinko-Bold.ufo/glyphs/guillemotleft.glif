@@ -1,33 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="1378"/>
+  <advance width="1134"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="667" y="159" type="line"/>
-      <point x="662" y="372" type="line"/>
-      <point x="354" y="620" type="line"/>
-      <point x="667" y="874" type="line"/>
-      <point x="657" y="1083" type="line"/>
-      <point x="157" y="668" type="line"/>
-      <point x="140" y="589" type="line"/>
-      <point x="238" y="507"/>
-      <point x="339" y="423"/>
-      <point x="437" y="341" type="curve"/>
+      <point x="593" y="143" type="line"/>
+      <point x="593" y="445" type="line"/>
+      <point x="392" y="631" type="line"/>
+      <point x="593" y="824" type="line"/>
+      <point x="593" y="1120" type="line"/>
+      <point x="158" y="709" type="line"/>
+      <point x="158" y="555" type="line"/>
     </contour>
     <contour>
-      <point x="1118" y="173" type="curve"/>
-      <point x="1112" y="382" type="line"/>
-      <point x="812" y="620" type="line"/>
-      <point x="1118" y="865" type="line"/>
-      <point x="1107" y="1070" type="line"/>
-      <point x="609" y="660" type="line" smooth="yes"/>
-      <point x="612" y="662"/>
-      <point x="615" y="665"/>
-      <point x="619" y="667" type="curve"/>
-      <point x="602" y="590" type="line"/>
-      <point x="773" y="449"/>
-      <point x="940" y="306"/>
+      <point x="1028" y="143" type="line"/>
+      <point x="1028" y="445" type="line"/>
+      <point x="827" y="631" type="line"/>
+      <point x="1028" y="824" type="line"/>
+      <point x="1028" y="1120" type="line"/>
+      <point x="593" y="709" type="line"/>
+      <point x="593" y="555" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guillemotleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1134</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -75,7 +75,7 @@
 	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
 	<key>postscriptBlueScale</key>
-	<real>0.039625000208616257</real>
+	<real>0.03962500020861626</real>
 	<key>postscriptBlueShift</key>
 	<integer>7</integer>
 	<key>postscriptBlueValues</key>
@@ -88,6 +88,12 @@
 		<integer>1503</integer>
 		<integer>1520</integer>
 		<integer>1532</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Jinko-Bold</string>
@@ -136,6 +142,6 @@
 	<key>versionMinor</key>
 	<integer>1</integer>
 	<key>xHeight</key>
-	<integer>1098</integer>
+	<integer>1102</integer>
 </dict>
 </plist>

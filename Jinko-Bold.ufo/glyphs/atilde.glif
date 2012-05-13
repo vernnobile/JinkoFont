@@ -1,37 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="atilde" format="1">
-  <advance width="1208"/>
+  <advance width="1144"/>
   <unicode hex="00E3"/>
   <outline>
-    <component base="tilde" xOffset="137" yOffset="-24"/>
     <component base="a"/>
+    <component base="tilde" xOffset="-38.5068" yOffset="1026.5"/>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-18</integer>
+            <key>width</key>
+            <integer>233</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>476</integer>
+            <key>width</key>
+            <integer>181</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>815</integer>
+            <key>width</key>
+            <integer>244</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1222</integer>
+            <key>width</key>
+            <integer>228</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1376</integer>
+            <key>width</key>
+            <integer>227</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>50</integer>
+            <key>width</key>
+            <integer>185</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>57</integer>
+            <key>width</key>
+            <integer>338</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>708</integer>
+            <key>width</key>
+            <integer>339</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>867</integer>
+            <key>width</key>
+            <integer>187</integer>
+          </dict>
+        </array>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>atilde</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1208</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

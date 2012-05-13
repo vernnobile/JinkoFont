@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="1">
+  <advance width="1596"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="261" y="285" type="line"/>
+      <point x="1378" y="661" type="line"/>
+      <point x="1378" y="882" type="line"/>
+      <point x="261" y="1259" type="line"/>
+      <point x="261" y="994" type="line"/>
+      <point x="1007" y="772" type="line"/>
+      <point x="261" y="550" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="1" type="line"/>
+      <point x="1378" y="1" type="line"/>
+      <point x="1378" y="189" type="line"/>
+      <point x="262" y="189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>greaterequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1596</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

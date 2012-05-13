@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.superior" format="1">
+  <advance width="722"/>
+  <outline>
+    <contour>
+      <point x="340.0" y="583.0" type="curve" smooth="yes"/>
+      <point x="564.0" y="583.0"/>
+      <point x="692.0" y="697.0"/>
+      <point x="692.0" y="861.0" type="curve" smooth="yes"/>
+      <point x="692.0" y="970.0"/>
+      <point x="605.0" y="1027.0"/>
+      <point x="529.0" y="1050.0" type="curve"/>
+      <point x="605.0" y="1084.0"/>
+      <point x="669.0" y="1143.0"/>
+      <point x="661.0" y="1266.0" type="curve" smooth="yes"/>
+      <point x="652.0" y="1392.0"/>
+      <point x="549.0" y="1477.0"/>
+      <point x="342.0" y="1477.0" type="curve" smooth="yes"/>
+      <point x="239.0" y="1477.0"/>
+      <point x="122.0" y="1440.0"/>
+      <point x="67.0" y="1401.0" type="curve"/>
+      <point x="67.0" y="1221.0" type="line"/>
+      <point x="111.0" y="1221.0" type="line"/>
+      <point x="163.0" y="1271.0"/>
+      <point x="235.0" y="1308.0"/>
+      <point x="309.0" y="1308.0" type="curve" smooth="yes"/>
+      <point x="359.0" y="1308.0"/>
+      <point x="442.0" y="1289.0"/>
+      <point x="442.0" y="1218.0" type="curve" smooth="yes"/>
+      <point x="442.0" y="1135.0"/>
+      <point x="375.0" y="1120.0"/>
+      <point x="276.0" y="1120.0" type="curve" smooth="yes"/>
+      <point x="240.0" y="1120.0" type="line"/>
+      <point x="240.0" y="986.0" type="line"/>
+      <point x="322.0" y="986.0" type="line" smooth="yes"/>
+      <point x="427.0" y="986.0"/>
+      <point x="470.0" y="954.0"/>
+      <point x="470.0" y="880.0" type="curve" smooth="yes"/>
+      <point x="470.0" y="772.0"/>
+      <point x="372.0" y="751.0"/>
+      <point x="294.0" y="753.0" type="curve" smooth="yes"/>
+      <point x="211.0" y="755.0"/>
+      <point x="146.0" y="793.0"/>
+      <point x="101.0" y="838.0" type="curve"/>
+      <point x="67.0" y="838.0" type="line"/>
+      <point x="67.0" y="654.0" type="line"/>
+      <point x="125.0" y="613.0"/>
+      <point x="208.0" y="583.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>three.superior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>722</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

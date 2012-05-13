@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="1">
-  <advance width="1208"/>
+  <advance width="1144"/>
   <unicode hex="00E5"/>
   <outline>
-    <component base="ring" xOffset="135.5" yOffset="113"/>
     <component base="a"/>
+    <component base="ring" xOffset="552" yOffset="1059"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

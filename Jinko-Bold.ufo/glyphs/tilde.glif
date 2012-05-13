@@ -1,60 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="1">
-  <advance width="897"/>
+  <advance width="1181"/>
   <unicode hex="02DC"/>
   <outline>
     <contour>
-      <point x="220" y="1252" type="line"/>
-      <point x="224" y="1316"/>
-      <point x="249" y="1333"/>
-      <point x="286" y="1333" type="curve" smooth="yes"/>
-      <point x="363" y="1333"/>
-      <point x="541" y="1246"/>
-      <point x="652" y="1246" type="curve" smooth="yes"/>
-      <point x="830" y="1246"/>
-      <point x="875" y="1364"/>
-      <point x="891" y="1558" type="curve"/>
-      <point x="679" y="1558" type="line"/>
-      <point x="672" y="1490"/>
-      <point x="664" y="1472"/>
-      <point x="627" y="1472" type="curve" smooth="yes"/>
-      <point x="567" y="1472"/>
-      <point x="334" y="1565"/>
-      <point x="249" y="1565" type="curve" smooth="yes"/>
-      <point x="78" y="1565"/>
-      <point x="20" y="1425"/>
-      <point x="9" y="1252" type="curve"/>
-    </contour>
-    <contour>
-      <point x="450" y="1098" type="move" name="_top"/>
+      <point x="824.945" y="196" type="curve" smooth="yes"/>
+      <point x="985.181" y="196"/>
+      <point x="1048.76" y="276.766"/>
+      <point x="1052.01" y="541" type="curve"/>
+      <point x="855.014" y="541" type="line"/>
+      <point x="855.014" y="432.886"/>
+      <point x="833.099" y="396.848"/>
+      <point x="779.158" y="396.848" type="curve" smooth="yes"/>
+      <point x="671.278" y="396.848"/>
+      <point x="477.297" y="541"/>
+      <point x="368.333" y="541" type="curve" smooth="yes"/>
+      <point x="228.038" y="541"/>
+      <point x="129" y="442.29"/>
+      <point x="129" y="196" type="curve" smooth="yes"/>
+      <point x="129.0" y="194.268"/>
+      <point x="324.014" y="196"/>
+      <point x="324.014" y="196" type="curve"/>
+      <point x="323.856" y="309.294"/>
+      <point x="339.117" y="332.173"/>
+      <point x="396.026" y="332.173" type="curve" smooth="yes"/>
+      <point x="510.885" y="332.173"/>
+      <point x="646.927" y="196"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
+      <key>com.fontlab.hintData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
+        <key>hhints</key>
+        <array>
           <dict>
+            <key>position</key>
+            <integer>196</integer>
+            <key>width</key>
+            <integer>201</integer>
           </dict>
-          <key>name</key>
-          <string>tilde</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>897</integer>
-        </dict>
+          <dict>
+            <key>position</key>
+            <integer>332</integer>
+            <key>width</key>
+            <integer>209</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>129</integer>
+            <key>width</key>
+            <integer>195</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>855</integer>
+            <key>width</key>
+            <integer>197</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

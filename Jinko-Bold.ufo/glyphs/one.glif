@@ -1,53 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="1">
-  <advance width="1323"/>
+  <advance width="1242"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="269" y="0" type="line"/>
-      <point x="1117" y="0" type="line"/>
-      <point x="1117" y="293" type="line"/>
-      <point x="894" y="293" type="line"/>
-      <point x="894" y="1575" type="line"/>
-      <point x="772" y="1576"/>
-      <point x="648" y="1574"/>
-      <point x="526" y="1575" type="curve"/>
-      <point x="494" y="1447"/>
-      <point x="376" y="1398"/>
-      <point x="190" y="1379" type="curve"/>
-      <point x="190" y="1135" type="line"/>
-      <point x="499" y="1188" type="line"/>
-      <point x="499" y="293" type="line"/>
-      <point x="269" y="293" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="1051" y="275" type="line"/>
+      <point x="841" y="275" type="line"/>
+      <point x="841" y="1482" type="line"/>
+      <point x="726" y="1483"/>
+      <point x="609" y="1481"/>
+      <point x="494" y="1482" type="curve"/>
+      <point x="464" y="1361"/>
+      <point x="353" y="1315"/>
+      <point x="179" y="1297" type="curve"/>
+      <point x="179" y="1068" type="line"/>
+      <point x="470" y="1116" type="line"/>
+      <point x="470" y="275" type="line"/>
+      <point x="253" y="275" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>one</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1323</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis" format="1">
-  <advance width="1208"/>
+  <advance width="1144"/>
   <unicode hex="00E4"/>
   <outline>
-    <component base="dieresis" xOffset="145.5" yOffset="-23"/>
     <component base="a"/>
+    <component base="dieresis" xOffset="137" yOffset="24"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

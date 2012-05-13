@@ -1,50 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Egrave" format="1">
-  <advance width="1263"/>
-  <unicode hex="00c8"/>
+  <advance width="1262"/>
+  <unicode hex="00C8"/>
   <outline>
-    <component base="grave" xOffset="234" yOffset="366"/>
     <component base="E"/>
+    <component base="grave" xOffset="110" yOffset="431"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>286</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>635</integer>
-	    <key>width</key>	    <integer>282</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1193</integer>
-	    <key>width</key>	    <integer>286</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1605</integer>
-	    <key>width</key>	    <integer>366</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>147</integer>
-	    <key>width</key>
-	    <integer>383</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>381</integer>
-	    <key>width</key>
-	    <integer>566</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

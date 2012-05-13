@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand" format="1">
+  <advance width="1416"/>
+  <unicode hex="0026"/>
+  <outline>
+    <contour>
+      <point x="611.0" y="-23.0" type="curve" smooth="yes"/>
+      <point x="769.0" y="-23.0"/>
+      <point x="923.0" y="17.0"/>
+      <point x="1054.0" y="115.0" type="curve"/>
+      <point x="1115.0" y="58.0"/>
+      <point x="1167.0" y="0.0"/>
+      <point x="1167.0" y="0.0" type="curve"/>
+      <point x="1376.0" y="0.0" type="line"/>
+      <point x="1376.0" y="0.0"/>
+      <point x="1159.0" y="196.0"/>
+      <point x="1160.0" y="195.0" type="curve"/>
+      <point x="1277.0" y="306.0"/>
+      <point x="1340.0" y="479.0"/>
+      <point x="1340.0" y="643.0" type="curve"/>
+      <point x="1215.0" y="688.0" type="line"/>
+      <point x="1215.0" y="565.0"/>
+      <point x="1159.0" y="355.0"/>
+      <point x="1062.0" y="289.0" type="curve"/>
+      <point x="586.0" y="750.0" type="line"/>
+      <point x="909.0" y="874.0"/>
+      <point x="1005.0" y="1041.0"/>
+      <point x="1005.0" y="1168.0" type="curve"/>
+      <point x="1013.0" y="1347.0"/>
+      <point x="891.0" y="1493.0"/>
+      <point x="609.0" y="1503.0" type="curve"/>
+      <point x="257.0" y="1503.0"/>
+      <point x="153.0" y="1318.0"/>
+      <point x="153.0" y="1154.0" type="curve" smooth="yes"/>
+      <point x="153.0" y="1013.0"/>
+      <point x="285.0" y="895.0"/>
+      <point x="374.0" y="812.0" type="curve"/>
+      <point x="160.0" y="731.0"/>
+      <point x="52.0" y="619.0"/>
+      <point x="52.0" y="419.0" type="curve" smooth="yes"/>
+      <point x="52.0" y="156.0"/>
+      <point x="260.0" y="-23.0"/>
+    </contour>
+    <contour>
+      <point x="630.0" y="126.0" type="curve" smooth="yes"/>
+      <point x="301.0" y="126.0"/>
+      <point x="197.0" y="261.0"/>
+      <point x="197.0" y="411.0" type="curve" smooth="yes"/>
+      <point x="197.0" y="593.0"/>
+      <point x="345.0" y="656.0"/>
+      <point x="453.0" y="694.0" type="curve"/>
+      <point x="950.0" y="209.0" type="line"/>
+      <point x="843.0" y="146.0"/>
+      <point x="783.0" y="126.0"/>
+    </contour>
+    <contour>
+      <point x="496.0" y="851.0" type="curve"/>
+      <point x="364.0" y="996.0"/>
+      <point x="309.0" y="1063.0"/>
+      <point x="309.0" y="1150.0" type="curve"/>
+      <point x="316.0" y="1277.0"/>
+      <point x="392.0" y="1359.0"/>
+      <point x="586.0" y="1366.0" type="curve"/>
+      <point x="816.0" y="1366.0"/>
+      <point x="862.0" y="1273.0"/>
+      <point x="862.0" y="1170.0" type="curve" smooth="yes"/>
+      <point x="862.0" y="1061.0"/>
+      <point x="760.0" y="932.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-23</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1362</integer>
+            <key>width</key>
+            <integer>141</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>52</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>153</integer>
+            <key>width</key>
+            <integer>164</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>870</integer>
+            <key>width</key>
+            <integer>135</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1215</integer>
+            <key>width</key>
+            <integer>125</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

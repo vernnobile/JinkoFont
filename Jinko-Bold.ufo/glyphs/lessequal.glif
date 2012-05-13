@@ -1,51 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="1">
-  <advance width="1596"/>
+  <advance width="1499"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="1378" y="285" type="line"/>
-      <point x="1378" y="550" type="line"/>
-      <point x="632" y="772" type="line"/>
-      <point x="1378" y="994" type="line"/>
-      <point x="1378" y="1259" type="line"/>
-      <point x="261" y="883" type="line"/>
-      <point x="261" y="662" type="line"/>
+      <point x="1296" y="268" type="line"/>
+      <point x="1296" y="517" type="line"/>
+      <point x="595" y="725" type="line"/>
+      <point x="1296" y="935" type="line"/>
+      <point x="1296" y="1183" type="line"/>
+      <point x="246" y="830" type="line"/>
+      <point x="246" y="623" type="line"/>
     </contour>
     <contour>
-      <point x="262.0" y="1.0" type="line"/>
-      <point x="1378.0" y="1.0" type="line"/>
-      <point x="1378.0" y="189.0" type="line"/>
-      <point x="262.0" y="189.0" type="line"/>
+      <point x="246" y="1" type="line"/>
+      <point x="1296" y="1" type="line"/>
+      <point x="1296" y="179" type="line"/>
+      <point x="246" y="179" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>lessequal</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1596</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,54 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="1134"/>
+  <advance width="1065"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="593" y="143" type="line"/>
-      <point x="593" y="445" type="line"/>
-      <point x="392" y="631" type="line"/>
-      <point x="593" y="824" type="line"/>
-      <point x="593" y="1120" type="line"/>
-      <point x="158" y="709" type="line"/>
-      <point x="158" y="555" type="line"/>
+      <point x="557" y="135" type="line"/>
+      <point x="557" y="418" type="line"/>
+      <point x="369" y="594" type="line"/>
+      <point x="557" y="775" type="line"/>
+      <point x="557" y="1054" type="line"/>
+      <point x="149" y="667" type="line"/>
+      <point x="149" y="522" type="line"/>
     </contour>
     <contour>
-      <point x="1028" y="143" type="line"/>
-      <point x="1028" y="445" type="line"/>
-      <point x="827" y="631" type="line"/>
-      <point x="1028" y="824" type="line"/>
-      <point x="1028" y="1120" type="line"/>
-      <point x="593" y="709" type="line"/>
-      <point x="593" y="555" type="line"/>
+      <point x="966" y="135" type="line"/>
+      <point x="966" y="418" type="line"/>
+      <point x="778" y="594" type="line"/>
+      <point x="966" y="775" type="line"/>
+      <point x="966" y="1054" type="line"/>
+      <point x="557" y="667" type="line"/>
+      <point x="557" y="522" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>guillemotleft</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>1134</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1632"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="1376" y="0" type="line"/>
+      <point x="1491" y="0" type="line"/>
+      <point x="1491" y="128" type="line"/>
+      <point x="1583" y="128" type="line"/>
+      <point x="1583" y="237" type="line"/>
+      <point x="1491" y="237" type="line"/>
+      <point x="1491" y="870" type="line"/>
+      <point x="1309" y="870" type="line"/>
+      <point x="940" y="237" type="line"/>
+      <point x="940" y="128" type="line"/>
+      <point x="1376" y="128" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="0" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="1419" y="1521" type="line"/>
+      <point x="1283" y="1521" type="line"/>
+    </contour>
+    <contour>
+      <point x="1066" y="237" type="line"/>
+      <point x="1376" y="775" type="line"/>
+      <point x="1376" y="237" type="line"/>
+    </contour>
+    <component base="three.superior" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

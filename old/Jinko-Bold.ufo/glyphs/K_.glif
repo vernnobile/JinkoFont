@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="1">
+  <advance width="1531"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="156" y="0" type="line"/>
+      <point x="565" y="0" type="line"/>
+      <point x="565" y="508" type="line"/>
+      <point x="695" y="668" type="line"/>
+      <point x="771" y="537" type="line" smooth="yes"/>
+      <point x="876" y="358"/>
+      <point x="981" y="180"/>
+      <point x="1085" y="0" type="curve"/>
+      <point x="1572" y="0" type="line"/>
+      <point x="1018" y="885" type="line"/>
+      <point x="1541" y="1574" type="line"/>
+      <point x="1070" y="1574" type="line"/>
+      <point x="951" y="1405"/>
+      <point x="830" y="1239"/>
+      <point x="712" y="1070" type="curve"/>
+      <point x="566" y="868" type="line"/>
+      <point x="565" y="868" type="line"/>
+      <point x="565" y="1574" type="line"/>
+      <point x="156" y="1574" type="line"/>
+    </contour>
+    <contour>
+      <point x="766" y="1574" type="move"/>
+    </contour>
+    <contour>
+      <point x="766" y="0" type="move"/>
+    </contour>
+    <contour>
+      <point x="766" y="1574" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="766" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -798,5 +798,19 @@
 	<string>dblgravecmb.glif</string>
 	<key>uniFB00</key>
 	<string>unif_b_00.glif</string>
+	<key>Scircumflex</key>
+	<string>s_circumflex.glif</string>
+	<key>uniFB03</key>
+	<string>unif_b_03.glif</string>
+	<key>uniFB04</key>
+	<string>unif_b_04.glif</string>
+	<key>uniFB01</key>
+	<string>unif_b_01.glif</string>
+	<key>uniFB02</key>
+	<string>unif_b_02.glif</string>
+	<key>foundryicon</key>
+	<string>foundryicon.glif</string>
+	<key>gcommaaccent</key>
+	<string>gcommaaccent.glif</string>
     </dict>
 </plist>

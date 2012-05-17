@@ -4,17 +4,10 @@
   <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="230" y="0" type="line"/>
-      <point x="522" y="0" type="line"/>
-      <point x="1083" y="1482" type="line"/>
-      <point x="787" y="1482" type="line"/>
+      <point x="230" y="0" type="line" smooth="no"/>
+      <point x="787" y="1482" type="line" smooth="no"/>
+      <point x="1083" y="1482" type="line" smooth="no"/>
+      <point x="522" y="0" type="line" smooth="no"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

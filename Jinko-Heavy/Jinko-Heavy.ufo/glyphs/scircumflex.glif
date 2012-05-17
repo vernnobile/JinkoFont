@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scircumflex" format="1">
-  <advance width="1033"/>
-  <unicode hex="015D"/>
+  <advance width="1097"/>
+  <unicode hex="015d"/>
   <outline>
-    <component base="circumflex" xOffset="113" yOffset="17"/>
+    <component base="circumflex" xOffset="150" yOffset="49"/>
     <component base="s"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

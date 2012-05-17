@@ -4,32 +4,22 @@
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="696" y="0" type="line"/>
-      <point x="1135" y="0" type="line"/>
-      <point x="1135" y="267" type="line"/>
-      <point x="1297" y="267" type="line"/>
-      <point x="1297" y="573" type="line"/>
-      <point x="1135" y="573" type="line"/>
-      <point x="1135" y="1481" type="line"/>
-      <point x="522" y="1481" type="line"/>
-      <point x="26" y="578" type="line"/>
-      <point x="26" y="267" type="line"/>
-      <point x="696" y="267" type="line"/>
+      <point x="414" y="573" type="line" smooth="no"/>
+      <point x="696" y="573" type="line" smooth="no"/>
+      <point x="696" y="1084" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="414" y="573" type="line"/>
-      <point x="696" y="1084" type="line"/>
-      <point x="696" y="573" type="line"/>
+      <point x="696" y="0" type="line" smooth="no"/>
+      <point x="696" y="267" type="line" smooth="no"/>
+      <point x="26" y="267" type="line" smooth="no"/>
+      <point x="26" y="578" type="line" smooth="no"/>
+      <point x="522" y="1481" type="line" smooth="no"/>
+      <point x="1135" y="1481" type="line" smooth="no"/>
+      <point x="1135" y="573" type="line" smooth="no"/>
+      <point x="1297" y="573" type="line" smooth="no"/>
+      <point x="1297" y="267" type="line" smooth="no"/>
+      <point x="1135" y="267" type="line" smooth="no"/>
+      <point x="1135" y="0" type="line" smooth="no"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

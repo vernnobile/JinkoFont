@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ygrave" format="1">
-  <advance width="1062"/>
-  <unicode hex="1EF3"/>
+  <advance width="1129"/>
+  <unicode hex="1ef3"/>
   <outline>
+    <component base="grave" xOffset="-77" yOffset="36"/>
     <component base="y"/>
-    <component base="grave" xOffset="-149" yOffset="3"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

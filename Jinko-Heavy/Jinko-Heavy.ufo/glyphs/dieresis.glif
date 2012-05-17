@@ -1,29 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
   <advance width="903"/>
-  <unicode hex="00A8"/>
+  <unicode hex="00a8"/>
   <outline>
     <contour>
-      <point x="125" y="1160" type="line"/>
-      <point x="393" y="1160" type="line"/>
-      <point x="393" y="1448" type="line"/>
-      <point x="125" y="1448" type="line"/>
+      <point x="497" y="1160" type="line" smooth="no"/>
+      <point x="497" y="1448" type="line" smooth="no"/>
+      <point x="763" y="1448" type="line" smooth="no"/>
+      <point x="763" y="1160" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="497" y="1160" type="line"/>
-      <point x="763" y="1160" type="line"/>
-      <point x="763" y="1448" type="line"/>
-      <point x="497" y="1448" type="line"/>
+      <point x="125" y="1160" type="line" smooth="no"/>
+      <point x="125" y="1448" type="line" smooth="no"/>
+      <point x="393" y="1448" type="line" smooth="no"/>
+      <point x="393" y="1160" type="line" smooth="no"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcommaaccent" format="1">
-  <advance width="653"/>
-  <unicode hex="013C"/>
+  <advance width="684"/>
+  <unicode hex="013c"/>
   <outline>
+    <component base="uni0326" xOffset="136" yOffset="-498"/>
     <component base="l"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

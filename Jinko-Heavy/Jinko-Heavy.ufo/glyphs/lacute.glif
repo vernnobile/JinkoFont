@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="1">
-  <advance width="653"/>
-  <unicode hex="013A"/>
+  <advance width="684"/>
+  <unicode hex="013a"/>
   <outline>
-    <component base="acute" xOffset="-84" yOffset="381"/>
+    <component base="acute" xOffset="-52" yOffset="415"/>
     <component base="l"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uring" format="1">
   <advance width="1253"/>
-  <unicode hex="016F"/>
+  <unicode hex="016f"/>
   <outline>
-    <component base="ring" xOffset="855" yOffset="1108"/>
+    <component base="ring" xOffset="338" yOffset="1104"/>
     <component base="u"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

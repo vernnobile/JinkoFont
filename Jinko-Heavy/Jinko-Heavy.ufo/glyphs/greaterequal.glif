@@ -4,26 +4,19 @@
   <unicode hex="2265"/>
   <outline>
     <contour>
-      <point x="324" y="293" type="line"/>
-      <point x="1484" y="630" type="line"/>
-      <point x="1484" y="868" type="line"/>
-      <point x="324" y="1198" type="line"/>
-      <point x="324" y="921" type="line"/>
-      <point x="1057" y="749" type="line"/>
-      <point x="324" y="572" type="line"/>
+      <point x="331" y="0" type="line" smooth="no"/>
+      <point x="331" y="185" type="line" smooth="no"/>
+      <point x="1478" y="185" type="line" smooth="no"/>
+      <point x="1478" y="0" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="331" y="0" type="line"/>
-      <point x="1478" y="0" type="line"/>
-      <point x="1478" y="185" type="line"/>
-      <point x="331" y="185" type="line"/>
+      <point x="324" y="293" type="line" smooth="no"/>
+      <point x="324" y="572" type="line" smooth="no"/>
+      <point x="1057" y="749" type="line" smooth="no"/>
+      <point x="324" y="921" type="line" smooth="no"/>
+      <point x="324" y="1198" type="line" smooth="no"/>
+      <point x="1484" y="868" type="line" smooth="no"/>
+      <point x="1484" y="630" type="line" smooth="no"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

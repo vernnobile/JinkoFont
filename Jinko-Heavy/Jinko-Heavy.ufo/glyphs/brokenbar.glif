@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="1">
   <advance width="477"/>
-  <unicode hex="00A6"/>
+  <unicode hex="00a6"/>
   <outline>
     <contour>
-      <point x="108" y="-339" type="line"/>
-      <point x="370" y="-339" type="line"/>
-      <point x="370" y="339" type="line"/>
-      <point x="108" y="339" type="line"/>
+      <point x="108" y="630" type="line" smooth="no"/>
+      <point x="108" y="1308" type="line" smooth="no"/>
+      <point x="370" y="1308" type="line" smooth="no"/>
+      <point x="370" y="630" type="line" smooth="no"/>
     </contour>
     <contour>
-      <point x="108" y="630" type="line"/>
-      <point x="370" y="630" type="line"/>
-      <point x="370" y="1308" type="line"/>
-      <point x="108" y="1308" type="line"/>
+      <point x="108" y="-339" type="line" smooth="no"/>
+      <point x="108" y="339" type="line" smooth="no"/>
+      <point x="370" y="339" type="line" smooth="no"/>
+      <point x="370" y="-339" type="line" smooth="no"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

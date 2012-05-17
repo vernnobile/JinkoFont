@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nacute" format="1">
-  <advance width="1247"/>
+  <advance width="1246"/>
   <unicode hex="0144"/>
   <outline>
-    <component base="acute" xOffset="182" yOffset="3"/>
+    <component base="acute" xOffset="206" yOffset="36"/>
     <component base="n"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

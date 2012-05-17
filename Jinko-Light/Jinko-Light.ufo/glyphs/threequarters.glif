@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1376"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="1207" y="0" type="line"/>
+      <point x="1314" y="0" type="line"/>
+      <point x="1314" y="120" type="line"/>
+      <point x="1401" y="120" type="line"/>
+      <point x="1401" y="224" type="line"/>
+      <point x="1314" y="224" type="line"/>
+      <point x="1314" y="817" type="line"/>
+      <point x="1145" y="817" type="line"/>
+      <point x="798" y="224" type="line"/>
+      <point x="798" y="120" type="line"/>
+      <point x="1207" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="288" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="1247" y="1428" type="line"/>
+      <point x="1121" y="1428" type="line"/>
+    </contour>
+    <contour>
+      <point x="916" y="224" type="line"/>
+      <point x="1207" y="728" type="line"/>
+      <point x="1207" y="224" type="line"/>
+    </contour>
+    <component base="three.superior" xOffset="-50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

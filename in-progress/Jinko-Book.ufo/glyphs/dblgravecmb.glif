@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecmb" format="1">
+  <advance width="725"/>
+  <outline>
+    <contour>
+      <point x="220" y="1137" type="line"/>
+      <point x="374" y="1137" type="line"/>
+      <point x="172" y="1481" type="line"/>
+      <point x="-54" y="1481" type="line"/>
+    </contour>
+    <contour>
+      <point x="526" y="1137" type="line"/>
+      <point x="681" y="1137" type="line"/>
+      <point x="507" y="1481" type="line"/>
+      <point x="262" y="1481" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

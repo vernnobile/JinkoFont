@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="950"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="425" y="183" type="curve"/>
+      <point x="425" y="325" type="line"/>
+      <point x="836" y="602" type="line"/>
+      <point x="836" y="602"/>
+      <point x="474" y="853"/>
+      <point x="425" y="882" type="curve"/>
+      <point x="425" y="996" type="line"/>
+      <point x="425" y="996"/>
+      <point x="715" y="785"/>
+      <point x="898" y="648" type="curve"/>
+      <point x="898" y="544" type="line"/>
+      <point x="713" y="391"/>
+      <point x="425" y="183"/>
+    </contour>
+    <contour>
+      <point x="65" y="183" type="curve"/>
+      <point x="65" y="325" type="line"/>
+      <point x="478" y="602" type="line"/>
+      <point x="478" y="602"/>
+      <point x="114" y="854"/>
+      <point x="65" y="883" type="curve"/>
+      <point x="65" y="996" type="line"/>
+      <point x="65" y="996"/>
+      <point x="358" y="785"/>
+      <point x="541" y="648" type="curve"/>
+      <point x="541" y="544" type="line"/>
+      <point x="356" y="391"/>
+      <point x="65" y="183"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

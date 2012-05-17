@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="950"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="65" y="183" type="line"/>
+      <point x="65" y="183"/>
+      <point x="356" y="391"/>
+      <point x="541" y="544" type="curve"/>
+      <point x="541" y="648" type="line"/>
+      <point x="358" y="785"/>
+      <point x="65" y="996"/>
+      <point x="65" y="996" type="curve"/>
+      <point x="65" y="880" type="line"/>
+      <point x="4" y="930"/>
+      <point x="478" y="602"/>
+      <point x="478" y="602" type="curve"/>
+      <point x="65" y="325" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="183" type="line"/>
+      <point x="425" y="183"/>
+      <point x="713" y="391"/>
+      <point x="898" y="544" type="curve"/>
+      <point x="898" y="648" type="line"/>
+      <point x="715" y="785"/>
+      <point x="425" y="996"/>
+      <point x="425" y="996" type="curve"/>
+      <point x="425" y="880" type="line"/>
+      <point x="364" y="930"/>
+      <point x="836" y="602"/>
+      <point x="836" y="602" type="curve"/>
+      <point x="425" y="325" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

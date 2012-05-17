@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="1">
+  <advance width="872"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="842" y="0" type="line"/>
+      <point x="920" y="0" type="line"/>
+      <point x="25" y="1481" type="line"/>
+      <point x="-55" y="1481" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

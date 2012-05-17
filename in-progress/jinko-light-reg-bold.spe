@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="110221_1144_developer_" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="light-reg-bold" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="100.0" />
+<data name="previewtext" value="Ø/ae ?" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68562613746" />
+<!-- axis definitions -->
+<axis maximum="1" minimum="-1" name="light-reg-bold" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Jinko-Light.ufo">
+<location>
+<dimension name="light-reg-bold" xvalue="-1" />
+</location>
+<!-- color for Jinko-Light.ufo -->
+<color a="1.000000" b="1.000000" g="0.500000" r="0.000000" />
+</master>
+<master filename="Jinko-Book.ufo">
+<location>
+<dimension name="light-reg-bold" xvalue="0" />
+</location>
+<!-- color for Jinko-Book.ufo -->
+<color a="1.000000" b="0.500000" g="0.500000" r="0.500000" />
+</master>
+<master filename="Jinko-Bold.ufo">
+<location>
+<dimension name="light-reg-bold" xvalue="1" />
+</location>
+<!-- color for Jinko-Bold.ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Jinko" sequence="" stylename="Light">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="light-reg-bold" xvalue="-1.8014" />
+</location>
+</instance>
+<instance familyname="Jinko" sequence="" stylename="Regular">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="light-reg-bold" xvalue="-0.9242" />
+</location>
+</instance>
+<instance familyname="Jinko" sequence="" stylename="Medium">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="light-reg-bold" xvalue="0.0169" />
+</location>
+</instance>
+<instance familyname="Jinko" sequence="" stylename="Bold">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="light-reg-bold" xvalue="0.7109" />
+</location>
+</instance>
+<instance familyname="Jinko" sequence="" stylename="Heavy">
+<location>
+<dimension name="None" xvalue="0" />
+<dimension name="light-reg-bold" xvalue="1.5226" />
+</location>
+</instance>
+</designspace>

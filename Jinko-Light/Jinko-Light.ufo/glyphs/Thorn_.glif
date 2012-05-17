@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="1009"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="379" type="line"/>
+      <point x="713" y="379" type="line" smooth="yes"/>
+      <point x="935" y="379"/>
+      <point x="1025" y="561"/>
+      <point x="1025" y="741" type="curve" smooth="yes"/>
+      <point x="1025" y="875"/>
+      <point x="930" y="1069"/>
+      <point x="699" y="1069" type="curve" smooth="yes"/>
+      <point x="285" y="1069" type="line"/>
+      <point x="285" y="1481" type="line"/>
+      <point x="158" y="1481" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="473" type="line"/>
+      <point x="285" y="976" type="line"/>
+      <point x="697" y="976" type="line" smooth="yes"/>
+      <point x="743" y="976"/>
+      <point x="897" y="916"/>
+      <point x="897" y="740" type="curve" smooth="yes"/>
+      <point x="897" y="566"/>
+      <point x="797" y="473"/>
+      <point x="707" y="473" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

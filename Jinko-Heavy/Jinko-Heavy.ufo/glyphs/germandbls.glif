@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="1238"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="1055" type="line" smooth="yes"/>
+      <point x="507" y="1126"/>
+      <point x="502" y="1236"/>
+      <point x="660" y="1236" type="curve" smooth="yes"/>
+      <point x="737" y="1236"/>
+      <point x="763" y="1208"/>
+      <point x="763" y="1117" type="curve" smooth="yes"/>
+      <point x="763" y="983"/>
+      <point x="675" y="990"/>
+      <point x="603" y="990" type="curve"/>
+      <point x="603" y="675" type="line"/>
+      <point x="762" y="675"/>
+      <point x="870" y="618"/>
+      <point x="870" y="488" type="curve" smooth="yes"/>
+      <point x="870" y="342"/>
+      <point x="779" y="295"/>
+      <point x="630" y="295" type="curve" smooth="yes"/>
+      <point x="622" y="295"/>
+      <point x="612" y="293"/>
+      <point x="606" y="294" type="curve"/>
+      <point x="606" y="0" type="line"/>
+      <point x="649" y="-1"/>
+      <point x="686" y="-5"/>
+      <point x="703" y="-5" type="curve" smooth="yes"/>
+      <point x="1054" y="-5"/>
+      <point x="1263" y="152"/>
+      <point x="1263" y="467" type="curve" smooth="yes"/>
+      <point x="1263" y="631"/>
+      <point x="1098" y="823"/>
+      <point x="871" y="857" type="curve"/>
+      <point x="871" y="875" type="line"/>
+      <point x="1007" y="897"/>
+      <point x="1134" y="1007"/>
+      <point x="1134" y="1163" type="curve" smooth="yes"/>
+      <point x="1134" y="1363"/>
+      <point x="937" y="1505"/>
+      <point x="627" y="1505" type="curve" smooth="yes"/>
+      <point x="289" y="1505"/>
+      <point x="118" y="1334"/>
+      <point x="118" y="1029" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

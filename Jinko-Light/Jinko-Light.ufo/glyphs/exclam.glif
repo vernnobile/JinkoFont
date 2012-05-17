@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="426"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="213" y="3" type="curve" smooth="yes"/>
+      <point x="286" y="3"/>
+      <point x="350" y="61"/>
+      <point x="350" y="136" type="curve" smooth="yes"/>
+      <point x="350" y="210"/>
+      <point x="286" y="269"/>
+      <point x="213" y="269" type="curve" smooth="yes"/>
+      <point x="140" y="269"/>
+      <point x="77" y="210"/>
+      <point x="77" y="136" type="curve" smooth="yes"/>
+      <point x="77" y="61"/>
+      <point x="140" y="3"/>
+    </contour>
+    <contour>
+      <point x="194" y="469" type="line"/>
+      <point x="236" y="469" type="line"/>
+      <point x="298" y="1481" type="line"/>
+      <point x="129" y="1481" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>225</integer>
+          <key>y</key>
+          <integer>361</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

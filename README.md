@@ -1,0 +1,1 @@
+Jinko Sans started as a forking of Oxygen Bold and was then further developed and expanded backwards to regular and mid weights. Jinko is designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.

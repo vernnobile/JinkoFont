@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wacute" format="1">
   <advance width="1609"/>
-  <unicode hex="1e83"/>
+  <unicode hex="1E83"/>
   <outline>
     <component base="w"/>
     <component base="acute" xOffset="738" yOffset="57"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

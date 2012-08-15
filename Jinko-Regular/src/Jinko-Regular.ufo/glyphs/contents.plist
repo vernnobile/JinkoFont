@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
+<dict>
 	<key>A</key>
 	<string>a_.glif</string>
 	<key>AE</key>
@@ -178,6 +178,8 @@
 	<string>s_caron.glif</string>
 	<key>Scedilla</key>
 	<string>s_cedilla.glif</string>
+	<key>Scircumflex</key>
+	<string>s_circumflex.glif</string>
 	<key>Scommaaccent</key>
 	<string>s_commaaccent.glif</string>
 	<key>T</key>
@@ -386,6 +388,8 @@
 	<string>five.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
+	<key>foundryicon</key>
+	<string>foundryicon.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>fraction</key>
@@ -396,6 +400,8 @@
 	<string>gbreve.glif</string>
 	<key>gcircumflex</key>
 	<string>gcircumflex.glif</string>
+	<key>gcommaaccent</key>
+	<string>gcommaaccent.glif</string>
 	<key>gdotaccent</key>
 	<string>gdotaccent.glif</string>
 	<key>germandbls</key>
@@ -754,6 +760,16 @@
 	<string>uni2215.glif</string>
 	<key>uni2219</key>
 	<string>uni2219.glif</string>
+	<key>uniFB00</key>
+	<string>unif_b_00.glif</string>
+	<key>uniFB01</key>
+	<string>unif_b_01.glif</string>
+	<key>uniFB02</key>
+	<string>unif_b_02.glif</string>
+	<key>uniFB03</key>
+	<string>unif_b_03.glif</string>
+	<key>uniFB04</key>
+	<string>unif_b_04.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>uring</key>
@@ -796,21 +812,5 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
-	<key>gcommaaccent</key>
-	<string>gcommaaccent.glif</string>
-	<key>Scircumflex</key>
-	<string>s_circumflex.glif</string>
-	<key>uniFB03</key>
-	<string>unif_b_03.glif</string>
-	<key>uniFB04</key>
-	<string>unif_b_04.glif</string>
-	<key>uniFB01</key>
-	<string>unif_b_01.glif</string>
-	<key>uniFB02</key>
-	<string>unif_b_02.glif</string>
-	<key>uniFB00</key>
-	<string>unif_b_00.glif</string>
-	<key>foundryicon</key>
-	<string>foundryicon.glif</string>
-    </dict>
+</dict>
 </plist>

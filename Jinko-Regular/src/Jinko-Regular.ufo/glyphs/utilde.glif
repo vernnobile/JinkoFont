@@ -6,4 +6,11 @@
     <component base="u"/>
     <component base="tilde" xOffset="132" yOffset="84"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

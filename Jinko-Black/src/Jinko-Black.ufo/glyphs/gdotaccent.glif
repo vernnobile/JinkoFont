@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent" format="1">
-  <advance width="1231"/>
+  <advance width="1276"/>
   <unicode hex="0121"/>
   <outline>
+    <component base="dotaccent" xOffset="414.500" yOffset="1040"/>
     <component base="g"/>
-    <component base="uni0307" xOffset="535" yOffset="1081"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,33 @@
+{
+  "name": "Jinko",
+  "designer": "vernon adams",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "",
+  "size": 27817,
+  "fonts": [
+    {
+      "name": "Jinko",
+      "postScriptName": "Jinko-Bold",
+      "fullName": "Jinko-Bold",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Jinko-Bold.ttf",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'Jinko'"
+    },
+    {
+      "name": "Jinko",
+      "postScriptName": "Jinko-Regular",
+      "fullName": "Jinko Regular",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Jinko-Regular.ttf",
+      "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'Jinko'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "dateAdded": "2012-09-26"
+}
